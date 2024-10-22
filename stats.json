@@ -1,0 +1,6856 @@
+{
+    "1545": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Tudor": 1
+        },
+        "count": 1
+    },
+    "1557": {
+        "mediums": {
+            "printing": 0.5,
+            "painting": 0.5,
+            "photography": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Tudor": 1
+        },
+        "count": 2
+    },
+    "1560": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 1
+    },
+    "1563": {
+        "mediums": {
+            "printing": 0.5,
+            "painting": 0.5,
+            "photography": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Tudor": 1
+        },
+        "count": 2
+    },
+    "1568": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Tudor": 1
+        },
+        "count": 1
+    },
+    "1569": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Tudor": 1
+        },
+        "count": 1
+    },
+    "1573": {
+        "mediums": {
+            "painting": 0.67,
+            "printing": 0.33,
+            "photography": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Tudor": 2
+        },
+        "count": 3
+    },
+    "1576": {
+        "mediums": {
+            "printing": 0.5,
+            "painting": 0.5,
+            "photography": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Tudor": 1
+        },
+        "count": 2
+    },
+    "1586": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Tudor": 1
+        },
+        "count": 1
+    },
+    "1592": {
+        "mediums": {
+            "printing": 0.5,
+            "painting": 0.5,
+            "photography": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Court": 1,
+            "Tudor": 1
+        },
+        "count": 2
+    },
+    "1594": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Tudor": 1
+        },
+        "count": 1
+    },
+    "1595": {
+        "mediums": {
+            "printing": 0.5,
+            "painting": 0.5,
+            "photography": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Tudor": 1
+        },
+        "count": 2
+    },
+    "1596": {
+        "mediums": {
+            "printing": 0.5,
+            "painting": 0.5,
+            "photography": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Post-Reformation": 1,
+            "Tudor": 1
+        },
+        "count": 2
+    },
+    "1605": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Early Stuart": 1,
+            "Tudor": 1
+        },
+        "count": 1
+    },
+    "1610": {
+        "mediums": {
+            "painting": 0.67,
+            "printing": 0.33,
+            "photography": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Early Stuart": 2,
+            "Regional": 1
+        },
+        "count": 3
+    },
+    "1615": {
+        "mediums": {
+            "painting": 0.6,
+            "printing": 0.4,
+            "photography": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Early Stuart": 3,
+            "Court": 2
+        },
+        "count": 5
+    },
+    "1617": {
+        "mediums": {
+            "painting": 0.5,
+            "drawing": 0.5,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 2
+    },
+    "1619": {
+        "mediums": {
+            "printing": 0.5,
+            "painting": 0.5,
+            "photography": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Court": 1,
+            "Early Stuart": 1,
+            "Netherlands-trained, working in Britain": 1
+        },
+        "count": 2
+    },
+    "1620": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Early Stuart": 3
+        },
+        "count": 3
+    },
+    "1623": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Early Stuart": 2,
+            "Court": 1,
+            "Netherlands-trained, working in Britain": 1
+        },
+        "count": 2
+    },
+    "1625": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Early Stuart": 2,
+            "Court": 1,
+            "Netherlands-trained, working in Britain": 1
+        },
+        "count": 2
+    },
+    "1629": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Early Stuart": 2
+        },
+        "count": 2
+    },
+    "1630": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Early Stuart": 2,
+            "Regional": 1,
+            "Baroque": 1
+        },
+        "count": 2
+    },
+    "1635": {
+        "mediums": {
+            "painting": 0.67,
+            "drawing": 0.33,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Early Stuart": 1
+        },
+        "count": 3
+    },
+    "1636": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Early Stuart": 1
+        },
+        "count": 1
+    },
+    "1637": {
+        "mediums": {
+            "printing": 0.5,
+            "painting": 0.5,
+            "photography": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Early Stuart": 2
+        },
+        "count": 2
+    },
+    "1638": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Early Stuart": 3,
+            "Netherlands-trained, working in Britain": 3,
+            "Court": 2,
+            "Baroque": 1
+        },
+        "count": 3
+    },
+    "1639": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Early Stuart": 1,
+            "Netherlands-trained, working in Britain": 1
+        },
+        "count": 1
+    },
+    "1640": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Early Stuart": 2
+        },
+        "count": 2
+    },
+    "1644": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "English-born, working in the Netherlands": 2
+        },
+        "count": 2
+    },
+    "1645": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Civil War and Commonwealth": 2
+        },
+        "count": 2
+    },
+    "1646": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "English-born, working in the Netherlands": 1,
+            "Civil War and Commonwealth": 1
+        },
+        "count": 2
+    },
+    "1647": {
+        "mediums": {
+            "printing": 1.0,
+            "photography": 0.0,
+            "painting": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 1
+    },
+    "1648": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Civil War and Commonwealth": 2,
+            "Netherlands-trained, working in Britain": 2
+        },
+        "count": 2
+    },
+    "1654": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Civil War and Commonwealth": 1
+        },
+        "count": 1
+    },
+    "1655": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Restoration": 1,
+            "Civil War and Commonwealth": 1,
+            "Later Stuart": 1,
+            "Netherlands-trained, working in Britain": 1
+        },
+        "count": 2
+    },
+    "1658": {
+        "mediums": {
+            "printing": 1.0,
+            "photography": 0.0,
+            "painting": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 1
+    },
+    "1659": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Baroque": 2,
+            "English-born, working in the Netherlands": 1
+        },
+        "count": 2
+    },
+    "1660": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Restoration": 3,
+            "Later Stuart": 2,
+            "Netherlands-trained, working in Britain": 2,
+            "Court": 1,
+            "Civil War and Commonwealth": 1
+        },
+        "count": 6
+    },
+    "1661": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Later Stuart": 1,
+            "Restoration": 1
+        },
+        "count": 2
+    },
+    "1662": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Later Stuart": 1
+        },
+        "count": 1
+    },
+    "1670": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Later Stuart": 2,
+            "Netherlands-trained, working in Britain": 1,
+            "Restoration": 1
+        },
+        "count": 2
+    },
+    "1671": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Later Stuart": 1,
+            "Netherlands-trained, working in Britain": 1
+        },
+        "count": 1
+    },
+    "1672": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Netherlands-trained, working in Britain": 1
+        },
+        "count": 1
+    },
+    "1674": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Baroque": 1,
+            "Netherlands-trained, working in Britain": 1
+        },
+        "count": 1
+    },
+    "1675": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Baroque": 2,
+            "Court": 2,
+            "Later Stuart": 2,
+            "Netherlands-trained, working in Britain": 2,
+            "Restoration": 1
+        },
+        "count": 2
+    },
+    "1676": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Later Stuart": 2,
+            "Netherlands-trained, working in Britain": 1,
+            "Restoration": 1
+        },
+        "count": 2
+    },
+    "1679": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Baroque": 1,
+            "Court": 1,
+            "Later Stuart": 1,
+            "Netherlands-trained, working in Britain": 1
+        },
+        "count": 1
+    },
+    "1680": {
+        "mediums": {
+            "painting": 0.5,
+            "drawing": 0.5,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Later Stuart": 1,
+            "Restoration": 1
+        },
+        "count": 4
+    },
+    "1681": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Later Stuart": 1
+        },
+        "count": 1
+    },
+    "1683": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Later Stuart": 1
+        },
+        "count": 1
+    },
+    "1684": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Later Stuart": 1
+        },
+        "count": 1
+    },
+    "1685": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Later Stuart": 3,
+            "Netherlands-trained, working in Britain": 1
+        },
+        "count": 3
+    },
+    "1689": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Court": 1,
+            "Italian-trained, working in Britain": 1,
+            "Later Stuart": 1
+        },
+        "count": 1
+    },
+    "1690": {
+        "mediums": {
+            "painting": 0.8,
+            "drawing": 0.2,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Later Stuart": 3,
+            "Court": 1,
+            "Netherlands-trained, working in Britain": 1
+        },
+        "count": 5
+    },
+    "1692": {
+        "mediums": {
+            "drawing": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "painting": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 1
+    },
+    "1695": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Later Stuart": 1,
+            "Netherlands-trained, working in Britain": 1,
+            "Baroque": 1,
+            "French-trained, working in Britain": 1,
+            "Italian-trained, working in Britain": 1
+        },
+        "count": 2
+    },
+    "1696": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Later Stuart": 3,
+            "Netherlands-trained, working in Britain": 3
+        },
+        "count": 3
+    },
+    "1699": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Later Stuart": 2,
+            "Netherlands-trained, working in Britain": 2
+        },
+        "count": 2
+    },
+    "1700": {
+        "mediums": {
+            "painting": 0.75,
+            "drawing": 0.25,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Baroque": 1,
+            "Italian-trained, working in Britain": 1,
+            "Later Stuart": 1
+        },
+        "count": 4
+    },
+    "1701": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Later Stuart": 1,
+            "Swedish-trained, working in Britain": 1
+        },
+        "count": 1
+    },
+    "1708": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 1
+    },
+    "1710": {
+        "mediums": {
+            "painting": 0.62,
+            "printing": 0.12,
+            "drawing": 0.12,
+            "sculpture": 0.12,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Baroque": 3,
+            "Later Stuart": 2
+        },
+        "count": 8
+    },
+    "1715": {
+        "mediums": {
+            "drawing": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "painting": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Netherlands-trained, working in Britain": 1
+        },
+        "count": 1
+    },
+    "1716": {
+        "mediums": {
+            "drawing": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "painting": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Neo-Classicism": 1
+        },
+        "count": 1
+    },
+    "1718": {
+        "mediums": {
+            "drawing": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "painting": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Baroque": 1
+        },
+        "count": 1
+    },
+    "1719": {
+        "mediums": {
+            "painting": 0.5,
+            "drawing": 0.5,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 2
+    },
+    "1720": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conversation Piece": 3,
+            "French-trained, working in Britain": 1
+        },
+        "count": 4
+    },
+    "1721": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Netherlands-trained, working in Britain": 1
+        },
+        "count": 1
+    },
+    "1723": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 1
+    },
+    "1724": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 1
+    },
+    "1725": {
+        "mediums": {
+            "painting": 0.8,
+            "drawing": 0.2,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conversation Piece": 2,
+            "Rococo": 1,
+            "Baroque": 1
+        },
+        "count": 5
+    },
+    "1726": {
+        "mediums": {
+            "drawing": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "painting": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 1
+    },
+    "1728": {
+        "mediums": {
+            "painting": 0.6,
+            "drawing": 0.4,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Netherlands-trained, working in Britain": 1
+        },
+        "count": 5
+    },
+    "1730": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Netherlands-trained, working in Britain": 1
+        },
+        "count": 4
+    },
+    "1731": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Rococo": 2
+        },
+        "count": 2
+    },
+    "1732": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 2
+    },
+    "1733": {
+        "mediums": {
+            "painting": 0.75,
+            "drawing": 0.25,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Mannerist": 1
+        },
+        "count": 4
+    },
+    "1734": {
+        "mediums": {
+            "painting": 0.5,
+            "drawing": 0.5,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 2
+    },
+    "1735": {
+        "mediums": {
+            "printing": 0.83,
+            "painting": 0.17,
+            "photography": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Modern Moral Subject": 4
+        },
+        "count": 6
+    },
+    "1736": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 10
+    },
+    "1737": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 2
+    },
+    "1738": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conversation Piece": 2
+        },
+        "count": 4
+    },
+    "1739": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 3
+    },
+    "1740": {
+        "mediums": {
+            "painting": 0.93,
+            "drawing": 0.07,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Rococo": 2,
+            "Fancy Picture": 1,
+            "French-trained, working in Britain": 1
+        },
+        "count": 14
+    },
+    "1741": {
+        "mediums": {
+            "painting": 0.67,
+            "printing": 0.17,
+            "drawing": 0.17,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Rococo": 1,
+            "Modern Moral Subject": 1,
+            "Conversation Piece": 1
+        },
+        "count": 6
+    },
+    "1742": {
+        "mediums": {
+            "painting": 0.75,
+            "drawing": 0.25,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Rococo": 2
+        },
+        "count": 4
+    },
+    "1743": {
+        "mediums": {
+            "painting": 0.75,
+            "drawing": 0.25,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 4
+    },
+    "1744": {
+        "mediums": {
+            "painting": 0.9,
+            "drawing": 0.1,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 10
+    },
+    "1745": {
+        "mediums": {
+            "painting": 0.83,
+            "drawing": 0.17,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Modern Moral Subject": 2,
+            "Conversation Piece": 1,
+            "Rococo": 1,
+            "Picturesque": 1
+        },
+        "count": 12
+    },
+    "1746": {
+        "mediums": {
+            "painting": 0.7,
+            "drawing": 0.3,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conversation Piece": 1
+        },
+        "count": 10
+    },
+    "1747": {
+        "mediums": {
+            "painting": 0.62,
+            "drawing": 0.38,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 8
+    },
+    "1748": {
+        "mediums": {
+            "painting": 0.83,
+            "drawing": 0.17,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 6
+    },
+    "1749": {
+        "mediums": {
+            "drawing": 0.6,
+            "printing": 0.2,
+            "painting": 0.2,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Modern Moral Subject": 1
+        },
+        "count": 5
+    },
+    "1750": {
+        "mediums": {
+            "painting": 0.73,
+            "drawing": 0.27,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Rococo": 1,
+            "Fancy Picture": 1
+        },
+        "count": 30
+    },
+    "1751": {
+        "mediums": {
+            "painting": 0.83,
+            "printing": 0.17,
+            "photography": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conversation Piece": 1,
+            "Modern Moral Subject": 1
+        },
+        "count": 6
+    },
+    "1752": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 2
+    },
+    "1753": {
+        "mediums": {
+            "printing": 0.5,
+            "painting": 0.5,
+            "photography": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Grand Tour": 1
+        },
+        "count": 4
+    },
+    "1754": {
+        "mediums": {
+            "painting": 0.8,
+            "drawing": 0.2,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Rococo": 1
+        },
+        "count": 5
+    },
+    "1755": {
+        "mediums": {
+            "painting": 0.8,
+            "drawing": 0.2,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 5
+    },
+    "1756": {
+        "mediums": {
+            "painting": 0.5,
+            "drawing": 0.5,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 4
+    },
+    "1757": {
+        "mediums": {
+            "painting": 0.62,
+            "drawing": 0.38,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Grand Tour": 2,
+            "Grand Manner": 1
+        },
+        "count": 8
+    },
+    "1758": {
+        "mediums": {
+            "painting": 0.5,
+            "drawing": 0.3,
+            "printing": 0.2,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Modern Moral Subject": 2
+        },
+        "count": 10
+    },
+    "1759": {
+        "mediums": {
+            "painting": 0.6,
+            "drawing": 0.4,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conversation Piece": 1,
+            "Rococo": 1
+        },
+        "count": 5
+    },
+    "1760": {
+        "mediums": {
+            "painting": 0.8,
+            "drawing": 0.13,
+            "printing": 0.07,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Picturesque": 3,
+            "Grand Tour": 1,
+            "Neo-Classicism": 1
+        },
+        "count": 15
+    },
+    "1761": {
+        "mediums": {
+            "painting": 0.44,
+            "printing": 0.33,
+            "drawing": 0.22,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Modern Moral Subject": 1
+        },
+        "count": 9
+    },
+    "1762": {
+        "mediums": {
+            "printing": 0.6,
+            "painting": 0.2,
+            "drawing": 0.2,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 5
+    },
+    "1763": {
+        "mediums": {
+            "painting": 0.6,
+            "printing": 0.2,
+            "drawing": 0.2,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Modern Moral Subject": 1
+        },
+        "count": 10
+    },
+    "1764": {
+        "mediums": {
+            "painting": 0.88,
+            "drawing": 0.12,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conversation Piece": 2
+        },
+        "count": 8
+    },
+    "1765": {
+        "mediums": {
+            "painting": 0.6,
+            "drawing": 0.37,
+            "printing": 0.03,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Picturesque": 2,
+            "Rococo": 1,
+            "Grand Manner": 1
+        },
+        "count": 35
+    },
+    "1766": {
+        "mediums": {
+            "printing": 0.44,
+            "painting": 0.44,
+            "drawing": 0.11,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Neo-Classicism": 2
+        },
+        "count": 9
+    },
+    "1767": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 1
+    },
+    "1768": {
+        "mediums": {
+            "painting": 0.86,
+            "printing": 0.07,
+            "drawing": 0.07,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conversation Piece": 3,
+            "Neo-Classicism": 1
+        },
+        "count": 14
+    },
+    "1769": {
+        "mediums": {
+            "painting": 0.8,
+            "drawing": 0.1,
+            "sculpture": 0.1,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conversation Piece": 1,
+            "Picturesque": 1
+        },
+        "count": 10
+    },
+    "1770": {
+        "mediums": {
+            "painting": 0.69,
+            "drawing": 0.31,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Picturesque": 3,
+            "Neo-Classicism": 2,
+            "Grand Manner": 1
+        },
+        "count": 36
+    },
+    "1771": {
+        "mediums": {
+            "painting": 0.62,
+            "drawing": 0.38,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Picturesque": 1,
+            "Neo-Classicism": 1
+        },
+        "count": 8
+    },
+    "1772": {
+        "mediums": {
+            "painting": 1.0,
+            "photography": 0.0,
+            "printing": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Neo-Classicism": 1
+        },
+        "count": 9
+    },
+    "1773": {
+        "mediums": {
+            "painting": 0.52,
+            "drawing": 0.33,
+            "printing": 0.15,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Neo-Classicism": 3,
+            "Grand Manner": 1,
+            "Fancy Picture": 1,
+            "Romanticism": 1
+        },
+        "count": 27
+    },
+    "1774": {
+        "mediums": {
+            "painting": 0.51,
+            "drawing": 0.41,
+            "printing": 0.05,
+            "sculpture": 0.02,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Sublime": 1
+        },
+        "count": 41
+    },
+    "1775": {
+        "mediums": {
+            "painting": 0.79,
+            "drawing": 0.17,
+            "printing": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Neo-Classicism": 1,
+            "Grand Manner": 1
+        },
+        "count": 24
+    },
+    "1776": {
+        "mediums": {
+            "painting": 0.64,
+            "drawing": 0.27,
+            "printing": 0.09,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 11
+    },
+    "1777": {
+        "mediums": {
+            "painting": 0.57,
+            "printing": 0.22,
+            "drawing": 0.17,
+            "sculpture": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 23
+    },
+    "1778": {
+        "mediums": {
+            "painting": 0.57,
+            "drawing": 0.41,
+            "sculpture": 0.01,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Grand Manner": 3,
+            "Fancy Picture": 2
+        },
+        "count": 70
+    },
+    "1779": {
+        "mediums": {
+            "painting": 0.57,
+            "drawing": 0.43,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 14
+    },
+    "1780": {
+        "mediums": {
+            "painting": 0.49,
+            "drawing": 0.24,
+            "printing": 0.2,
+            "sculpture": 0.07,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Romanticism": 2,
+            "Sublime": 2,
+            "Picturesque": 1,
+            "Conversation Piece": 1
+        },
+        "count": 45
+    },
+    "1781": {
+        "mediums": {
+            "painting": 0.49,
+            "drawing": 0.47,
+            "printing": 0.02,
+            "sculpture": 0.02,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 43
+    },
+    "1782": {
+        "mediums": {
+            "painting": 0.67,
+            "drawing": 0.26,
+            "printing": 0.07,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Fancy Picture": 1,
+            "Modern Moral Subject": 1,
+            "Rococo": 1
+        },
+        "count": 27
+    },
+    "1783": {
+        "mediums": {
+            "painting": 0.63,
+            "drawing": 0.26,
+            "printing": 0.07,
+            "sculpture": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Romanticism": 1,
+            "Picturesque": 1
+        },
+        "count": 27
+    },
+    "1784": {
+        "mediums": {
+            "painting": 0.53,
+            "printing": 0.27,
+            "drawing": 0.2,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Fancy Picture": 1,
+            "Sublime": 1
+        },
+        "count": 15
+    },
+    "1785": {
+        "mediums": {
+            "printing": 0.49,
+            "painting": 0.28,
+            "drawing": 0.15,
+            "sculpture": 0.08,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 53
+    },
+    "1786": {
+        "mediums": {
+            "painting": 0.74,
+            "drawing": 0.26,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Picturesque": 2,
+            "Fancy Picture": 2,
+            "Conversation Piece": 2
+        },
+        "count": 23
+    },
+    "1787": {
+        "mediums": {
+            "painting": 0.52,
+            "drawing": 0.41,
+            "printing": 0.07,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Fancy Picture": 1
+        },
+        "count": 27
+    },
+    "1788": {
+        "mediums": {
+            "painting": 0.38,
+            "drawing": 0.31,
+            "printing": 0.23,
+            "sculpture": 0.08,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Fancy Picture": 2,
+            "Grand Manner": 1
+        },
+        "count": 39
+    },
+    "1789": {
+        "mediums": {
+            "drawing": 0.64,
+            "painting": 0.3,
+            "printing": 0.07,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Romanticism": 1,
+            "Neo-Classicism": 1
+        },
+        "count": 105
+    },
+    "1790": {
+        "mediums": {
+            "painting": 0.57,
+            "drawing": 0.35,
+            "printing": 0.08,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Romanticism": 1,
+            "Fancy Picture": 1
+        },
+        "count": 37
+    },
+    "1791": {
+        "mediums": {
+            "drawing": 0.59,
+            "painting": 0.4,
+            "printing": 0.01,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Fancy Picture": 1
+        },
+        "count": 97
+    },
+    "1792": {
+        "mediums": {
+            "drawing": 0.57,
+            "painting": 0.32,
+            "printing": 0.11,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Neo-Classicism": 6,
+            "Picturesque": 1,
+            "Fancy Picture": 1,
+            "Conversation Piece": 1
+        },
+        "count": 122
+    },
+    "1793": {
+        "mediums": {
+            "drawing": 0.71,
+            "painting": 0.27,
+            "printing": 0.02,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Romanticism": 1
+        },
+        "count": 119
+    },
+    "1794": {
+        "mediums": {
+            "drawing": 0.88,
+            "painting": 0.07,
+            "printing": 0.05,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 197
+    },
+    "1795": {
+        "mediums": {
+            "drawing": 0.7,
+            "painting": 0.2,
+            "printing": 0.11,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Neo-Classicism": 1
+        },
+        "count": 256
+    },
+    "1796": {
+        "mediums": {
+            "painting": 0.53,
+            "drawing": 0.41,
+            "printing": 0.06,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Sublime": 1
+        },
+        "count": 127
+    },
+    "1797": {
+        "mediums": {
+            "drawing": 0.65,
+            "painting": 0.33,
+            "printing": 0.02,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 670
+    },
+    "1798": {
+        "mediums": {
+            "drawing": 0.75,
+            "painting": 0.24,
+            "printing": 0.01,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Picturesque": 1,
+            "Sublime": 1
+        },
+        "count": 695
+    },
+    "1799": {
+        "mediums": {
+            "drawing": 0.77,
+            "painting": 0.21,
+            "printing": 0.02,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Sublime": 1
+        },
+        "count": 345
+    },
+    "1800": {
+        "mediums": {
+            "drawing": 0.75,
+            "painting": 0.22,
+            "printing": 0.03,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Sublime": 1
+        },
+        "count": 305
+    },
+    "1801": {
+        "mediums": {
+            "drawing": 0.92,
+            "painting": 0.07,
+            "printing": 0.01,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Sublime": 1,
+            "Picturesque": 1
+        },
+        "count": 1064
+    },
+    "1802": {
+        "mediums": {
+            "drawing": 0.84,
+            "painting": 0.15,
+            "printing": 0.01,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Sublime": 2,
+            "Neo-Classicism": 1,
+            "Norwich School": 1
+        },
+        "count": 860
+    },
+    "1803": {
+        "mediums": {
+            "drawing": 0.75,
+            "painting": 0.21,
+            "printing": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Sublime": 1,
+            "Conversation Piece": 1
+        },
+        "count": 112
+    },
+    "1804": {
+        "mediums": {
+            "painting": 0.57,
+            "drawing": 0.27,
+            "printing": 0.17,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Norwich School": 1,
+            "Bristol School": 1
+        },
+        "count": 30
+    },
+    "1805": {
+        "mediums": {
+            "drawing": 0.79,
+            "painting": 0.11,
+            "printing": 0.09,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Neo-Classicism": 37,
+            "Norwich School": 3,
+            "Sublime": 3,
+            "Picturesque": 2
+        },
+        "count": 655
+    },
+    "1806": {
+        "mediums": {
+            "drawing": 0.54,
+            "painting": 0.46,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Picturesque": 2,
+            "Sublime": 1,
+            "Norwich School": 1
+        },
+        "count": 48
+    },
+    "1807": {
+        "mediums": {
+            "drawing": 0.61,
+            "printing": 0.23,
+            "painting": 0.16,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Neo-Classicism": 110,
+            "Picturesque": 1,
+            "Romanticism": 1,
+            "Sublime": 1
+        },
+        "count": 541
+    },
+    "1808": {
+        "mediums": {
+            "drawing": 0.83,
+            "painting": 0.09,
+            "printing": 0.07,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Neo-Classicism": 6,
+            "Norwich School": 2,
+            "Victorian/Genre": 1,
+            "Romanticism": 1
+        },
+        "count": 536
+    },
+    "1809": {
+        "mediums": {
+            "drawing": 0.91,
+            "painting": 0.06,
+            "printing": 0.03,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Picturesque": 2,
+            "Sublime": 2,
+            "Norwich School": 1
+        },
+        "count": 526
+    },
+    "1810": {
+        "mediums": {
+            "drawing": 0.77,
+            "painting": 0.22,
+            "printing": 0.01,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Picturesque": 1,
+            "Sublime": 1,
+            "Romanticism": 1,
+            "Neo-Classicism": 1
+        },
+        "count": 610
+    },
+    "1811": {
+        "mediums": {
+            "drawing": 0.83,
+            "printing": 0.15,
+            "painting": 0.02,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 901
+    },
+    "1812": {
+        "mediums": {
+            "printing": 0.56,
+            "painting": 0.26,
+            "drawing": 0.18,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Sublime": 3,
+            "Romanticism": 1
+        },
+        "count": 62
+    },
+    "1813": {
+        "mediums": {
+            "drawing": 0.93,
+            "painting": 0.07,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 327
+    },
+    "1814": {
+        "mediums": {
+            "drawing": 0.87,
+            "printing": 0.12,
+            "painting": 0.02,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Romanticism": 2,
+            "Sublime": 1
+        },
+        "count": 659
+    },
+    "1815": {
+        "mediums": {
+            "painting": 0.49,
+            "printing": 0.36,
+            "drawing": 0.14,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Sublime": 2
+        },
+        "count": 69
+    },
+    "1816": {
+        "mediums": {
+            "drawing": 0.89,
+            "printing": 0.09,
+            "painting": 0.02,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Norwich School": 2,
+            "Sublime": 1
+        },
+        "count": 824
+    },
+    "1817": {
+        "mediums": {
+            "drawing": 0.94,
+            "printing": 0.03,
+            "painting": 0.02,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Norwich School": 1
+        },
+        "count": 853
+    },
+    "1818": {
+        "mediums": {
+            "drawing": 0.8,
+            "painting": 0.13,
+            "printing": 0.07,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 902
+    },
+    "1819": {
+        "mediums": {
+            "drawing": 0.9,
+            "painting": 0.07,
+            "printing": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 3145
+    },
+    "1820": {
+        "mediums": {
+            "drawing": 0.68,
+            "printing": 0.16,
+            "painting": 0.16,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Norwich School": 2
+        },
+        "count": 357
+    },
+    "1821": {
+        "mediums": {
+            "drawing": 0.76,
+            "printing": 0.2,
+            "painting": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 1
+        },
+        "count": 332
+    },
+    "1822": {
+        "mediums": {
+            "drawing": 0.67,
+            "printing": 0.21,
+            "painting": 0.12,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Romanticism": 1,
+            "Sublime": 1,
+            "Victorian/Genre": 1,
+            "Bristol School": 1
+        },
+        "count": 266
+    },
+    "1823": {
+        "mediums": {
+            "painting": 0.47,
+            "drawing": 0.35,
+            "printing": 0.17,
+            "sculpture": 0.01,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 128
+    },
+    "1824": {
+        "mediums": {
+            "drawing": 0.89,
+            "painting": 0.06,
+            "printing": 0.05,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 1377
+    },
+    "1825": {
+        "mediums": {
+            "drawing": 0.49,
+            "printing": 0.22,
+            "sculpture": 0.19,
+            "painting": 0.11,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Shoreham / The Ancients": 2,
+            "Picturesque": 1,
+            "Sublime": 1,
+            "Bristol School": 1
+        },
+        "count": 1601
+    },
+    "1826": {
+        "mediums": {
+            "drawing": 0.83,
+            "painting": 0.13,
+            "printing": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 2,
+            "Norwich School": 1,
+            "Shoreham / The Ancients": 1
+        },
+        "count": 1003
+    },
+    "1827": {
+        "mediums": {
+            "drawing": 0.56,
+            "painting": 0.37,
+            "printing": 0.06,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Shoreham / The Ancients": 3,
+            "Victorian/Genre": 1
+        },
+        "count": 750
+    },
+    "1828": {
+        "mediums": {
+            "drawing": 0.81,
+            "painting": 0.17,
+            "printing": 0.02,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Shoreham / The Ancients": 7,
+            "Sublime": 2
+        },
+        "count": 1274
+    },
+    "1829": {
+        "mediums": {
+            "drawing": 0.84,
+            "painting": 0.11,
+            "printing": 0.05,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Shoreham / The Ancients": 4,
+            "Victorian/Genre": 2,
+            "Romanticism": 1
+        },
+        "count": 573
+    },
+    "1830": {
+        "mediums": {
+            "drawing": 0.53,
+            "painting": 0.42,
+            "printing": 0.05,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Shoreham / The Ancients": 4,
+            "Romanticism": 2,
+            "Victorian/Genre": 1,
+            "Orientalist": 1
+        },
+        "count": 1541
+    },
+    "1831": {
+        "mediums": {
+            "drawing": 0.95,
+            "painting": 0.03,
+            "printing": 0.02,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Shoreham / The Ancients": 1
+        },
+        "count": 1366
+    },
+    "1832": {
+        "mediums": {
+            "drawing": 0.82,
+            "painting": 0.15,
+            "printing": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Shoreham / The Ancients": 1,
+            "Romanticism": 1
+        },
+        "count": 1179
+    },
+    "1833": {
+        "mediums": {
+            "drawing": 0.88,
+            "printing": 0.07,
+            "painting": 0.05,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Shoreham / The Ancients": 3,
+            "Victorian/Genre": 1
+        },
+        "count": 1429
+    },
+    "1834": {
+        "mediums": {
+            "drawing": 0.73,
+            "printing": 0.16,
+            "painting": 0.12,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Orientalist": 2,
+            "Shoreham / The Ancients": 2,
+            "Victorian/Genre": 1
+        },
+        "count": 997
+    },
+    "1835": {
+        "mediums": {
+            "drawing": 0.82,
+            "printing": 0.1,
+            "painting": 0.08,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 3,
+            "Romanticism": 3,
+            "Orientalist": 2,
+            "Shoreham / The Ancients": 2
+        },
+        "count": 806
+    },
+    "1836": {
+        "mediums": {
+            "drawing": 0.51,
+            "painting": 0.25,
+            "printing": 0.24,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 1
+        },
+        "count": 901
+    },
+    "1837": {
+        "mediums": {
+            "printing": 0.58,
+            "painting": 0.3,
+            "drawing": 0.12,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 67
+    },
+    "1838": {
+        "mediums": {
+            "painting": 0.58,
+            "drawing": 0.34,
+            "printing": 0.08,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Orientalist": 1,
+            "Victorian/Genre": 1
+        },
+        "count": 88
+    },
+    "1839": {
+        "mediums": {
+            "drawing": 0.81,
+            "painting": 0.18,
+            "printing": 0.01,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 3,
+            "Pre-Raphaelite Brotherhood": 1
+        },
+        "count": 818
+    },
+    "1840": {
+        "mediums": {
+            "drawing": 0.83,
+            "painting": 0.17,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 1,
+            "Romanticism": 1,
+            "Bristol School": 1
+        },
+        "count": 1304
+    },
+    "1841": {
+        "mediums": {
+            "drawing": 0.91,
+            "painting": 0.09,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Orientalist": 2
+        },
+        "count": 2208
+    },
+    "1842": {
+        "mediums": {
+            "drawing": 0.63,
+            "painting": 0.33,
+            "printing": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 2,
+            "Sublime": 1
+        },
+        "count": 161
+    },
+    "1843": {
+        "mediums": {
+            "drawing": 0.48,
+            "painting": 0.28,
+            "printing": 0.24,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Orientalist": 3,
+            "Sublime": 1,
+            "Picturesque": 1
+        },
+        "count": 211
+    },
+    "1844": {
+        "mediums": {
+            "drawing": 0.71,
+            "painting": 0.27,
+            "printing": 0.02,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 1,
+            "The Clique": 1
+        },
+        "count": 514
+    },
+    "1845": {
+        "mediums": {
+            "drawing": 0.67,
+            "painting": 0.33,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Romanticism": 9,
+            "Victorian/Genre": 2
+        },
+        "count": 679
+    },
+    "1846": {
+        "mediums": {
+            "drawing": 0.84,
+            "painting": 0.15,
+            "printing": 0.01,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 98
+    },
+    "1847": {
+        "mediums": {
+            "painting": 0.57,
+            "drawing": 0.33,
+            "printing": 0.05,
+            "sculpture": 0.05,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 2
+        },
+        "count": 21
+    },
+    "1848": {
+        "mediums": {
+            "painting": 0.65,
+            "printing": 0.18,
+            "drawing": 0.18,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 1,
+            "Pre-Raphaelite Brotherhood": 1
+        },
+        "count": 17
+    },
+    "1849": {
+        "mediums": {
+            "painting": 0.48,
+            "drawing": 0.39,
+            "printing": 0.13,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 11,
+            "Neo-Classicism": 1,
+            "The Clique": 1
+        },
+        "count": 23
+    },
+    "1850": {
+        "mediums": {
+            "painting": 0.68,
+            "drawing": 0.24,
+            "printing": 0.09,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 9,
+            "Victorian/Genre": 1
+        },
+        "count": 34
+    },
+    "1851": {
+        "mediums": {
+            "painting": 0.55,
+            "drawing": 0.3,
+            "printing": 0.15,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 3,
+            "Orientalist": 1
+        },
+        "count": 33
+    },
+    "1852": {
+        "mediums": {
+            "painting": 0.47,
+            "drawing": 0.33,
+            "printing": 0.2,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 7,
+            "Victorian/Genre": 4
+        },
+        "count": 30
+    },
+    "1853": {
+        "mediums": {
+            "painting": 0.61,
+            "drawing": 0.29,
+            "printing": 0.1,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 15,
+            "Victorian/Genre": 1,
+            "Romanticism": 1,
+            "Sublime": 1
+        },
+        "count": 31
+    },
+    "1854": {
+        "mediums": {
+            "painting": 0.53,
+            "printing": 0.42,
+            "drawing": 0.05,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 3,
+            "Victorian/Genre": 2
+        },
+        "count": 19
+    },
+    "1855": {
+        "mediums": {
+            "painting": 0.39,
+            "sculpture": 0.3,
+            "drawing": 0.24,
+            "printing": 0.06,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 13,
+            "Victorian/Genre": 2,
+            "Orientalist": 1
+        },
+        "count": 33
+    },
+    "1856": {
+        "mediums": {
+            "painting": 0.6,
+            "drawing": 0.31,
+            "printing": 0.06,
+            "sculpture": 0.03,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 18,
+            "Victorian/Genre": 2,
+            "Romanticism": 1
+        },
+        "count": 35
+    },
+    "1857": {
+        "mediums": {
+            "painting": 0.75,
+            "drawing": 0.14,
+            "printing": 0.11,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 11,
+            "Victorian/Genre": 5,
+            "Symbolism": 1
+        },
+        "count": 28
+    },
+    "1858": {
+        "mediums": {
+            "painting": 0.8,
+            "drawing": 0.12,
+            "printing": 0.08,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 5,
+            "Pre-Raphaelite Brotherhood": 4
+        },
+        "count": 65
+    },
+    "1859": {
+        "mediums": {
+            "painting": 0.46,
+            "drawing": 0.36,
+            "printing": 0.18,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 10,
+            "Victorian/Genre": 3,
+            "The Clique": 1,
+            "St John's Wood Clique": 1
+        },
+        "count": 28
+    },
+    "1860": {
+        "mediums": {
+            "painting": 0.49,
+            "drawing": 0.43,
+            "printing": 0.08,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 15,
+            "Victorian/Genre": 2,
+            "Orientalist": 1
+        },
+        "count": 51
+    },
+    "1861": {
+        "mediums": {
+            "printing": 0.62,
+            "painting": 0.2,
+            "drawing": 0.19,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 22,
+            "Victorian/Genre": 4,
+            "St John's Wood Clique": 1,
+            "Sublime": 1,
+            "Aesthetic Movement": 1
+        },
+        "count": 123
+    },
+    "1862": {
+        "mediums": {
+            "painting": 0.51,
+            "drawing": 0.29,
+            "printing": 0.2,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 20,
+            "Victorian/Genre": 3
+        },
+        "count": 45
+    },
+    "1863": {
+        "mediums": {
+            "drawing": 0.43,
+            "painting": 0.38,
+            "printing": 0.19,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 20,
+            "Victorian/Genre": 2
+        },
+        "count": 42
+    },
+    "1864": {
+        "mediums": {
+            "printing": 0.5,
+            "painting": 0.36,
+            "drawing": 0.14,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 32,
+            "Victorian/Genre": 2,
+            "Orientalist": 1,
+            "Decadence": 1,
+            "Symbolism": 1,
+            "Aesthetic Movement": 1
+        },
+        "count": 66
+    },
+    "1865": {
+        "mediums": {
+            "painting": 0.56,
+            "drawing": 0.25,
+            "printing": 0.19,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 12,
+            "Victorian/Genre": 4
+        },
+        "count": 32
+    },
+    "1866": {
+        "mediums": {
+            "painting": 0.62,
+            "drawing": 0.31,
+            "printing": 0.08,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 14,
+            "Victorian/Genre": 3,
+            "Decadence": 2,
+            "Symbolism": 2,
+            "St John's Wood Clique": 1,
+            "Aesthetic Movement": 1
+        },
+        "count": 26
+    },
+    "1867": {
+        "mediums": {
+            "painting": 0.44,
+            "printing": 0.39,
+            "drawing": 0.17,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "St John's Wood Clique": 1,
+            "Victorian/Genre": 1,
+            "Pre-Raphaelite Brotherhood": 1
+        },
+        "count": 18
+    },
+    "1868": {
+        "mediums": {
+            "painting": 0.8,
+            "drawing": 0.2,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 3,
+            "Pre-Raphaelite Brotherhood": 3,
+            "St John's Wood Clique": 1
+        },
+        "count": 15
+    },
+    "1869": {
+        "mediums": {
+            "painting": 0.75,
+            "printing": 0.12,
+            "drawing": 0.12,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Aesthetic Movement": 1
+        },
+        "count": 8
+    },
+    "1870": {
+        "mediums": {
+            "painting": 0.71,
+            "drawing": 0.29,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 9,
+            "Victorian/Genre": 1,
+            "Decadence": 1,
+            "Symbolism": 1
+        },
+        "count": 21
+    },
+    "1871": {
+        "mediums": {
+            "painting": 0.6,
+            "drawing": 0.25,
+            "printing": 0.15,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 3,
+            "Victorian/Genre": 2,
+            "St John's Wood Clique": 1,
+            "Aesthetic Movement": 1,
+            "British Impressionism": 1
+        },
+        "count": 20
+    },
+    "1872": {
+        "mediums": {
+            "painting": 0.48,
+            "drawing": 0.48,
+            "sculpture": 0.05,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 3,
+            "Aesthetic Movement": 1,
+            "British Impressionism": 1,
+            "Pre-Raphaelite Brotherhood": 1
+        },
+        "count": 21
+    },
+    "1873": {
+        "mediums": {
+            "painting": 0.5,
+            "drawing": 0.42,
+            "printing": 0.08,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 5,
+            "Impressionism": 1,
+            "Decadence": 1,
+            "Symbolism": 1,
+            "Aesthetic Movement": 1
+        },
+        "count": 12
+    },
+    "1874": {
+        "mediums": {
+            "painting": 0.75,
+            "printing": 0.12,
+            "drawing": 0.12,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Decadence": 2,
+            "Pre-Raphaelite Brotherhood": 2,
+            "Symbolism": 2,
+            "Impressionism": 2,
+            "Victorian/Genre": 1,
+            "Aesthetic Movement": 1,
+            "St John's Wood Clique": 1
+        },
+        "count": 16
+    },
+    "1875": {
+        "mediums": {
+            "painting": 0.66,
+            "drawing": 0.34,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 10,
+            "Aesthetic Movement": 3,
+            "British Impressionism": 1,
+            "Victorian/Genre": 1,
+            "Post-Impressionism": 1
+        },
+        "count": 29
+    },
+    "1876": {
+        "mediums": {
+            "painting": 0.61,
+            "drawing": 0.35,
+            "printing": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 5,
+            "Victorian/Genre": 2,
+            "St John's Wood Clique": 1,
+            "Orientalist": 1
+        },
+        "count": 23
+    },
+    "1877": {
+        "mediums": {
+            "painting": 0.6,
+            "drawing": 0.3,
+            "sculpture": 0.1,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 9,
+            "New Sculpture": 4,
+            "Victorian/Genre": 3,
+            "Decadence": 2,
+            "Fin de Si\u00e8cle": 2,
+            "Symbolism": 2,
+            "Impressionism": 1,
+            "St John's Wood Clique": 1
+        },
+        "count": 30
+    },
+    "1878": {
+        "mediums": {
+            "painting": 0.85,
+            "printing": 0.08,
+            "drawing": 0.08,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 2,
+            "Pre-Raphaelite Brotherhood": 1,
+            "Aesthetic Movement": 1
+        },
+        "count": 13
+    },
+    "1879": {
+        "mediums": {
+            "painting": 0.56,
+            "drawing": 0.25,
+            "printing": 0.19,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 3,
+            "Impressionism": 1,
+            "Victorian/Genre": 1
+        },
+        "count": 16
+    },
+    "1880": {
+        "mediums": {
+            "painting": 0.78,
+            "drawing": 0.15,
+            "sculpture": 0.07,
+            "photography": 0.0,
+            "printing": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Symbolism": 2,
+            "Victorian/Genre": 2,
+            "Impressionism": 2,
+            "Pre-Raphaelite Brotherhood": 2,
+            "New Sculpture": 1,
+            "Rural Naturalism": 1
+        },
+        "count": 27
+    },
+    "1881": {
+        "mediums": {
+            "printing": 0.48,
+            "painting": 0.48,
+            "drawing": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 7,
+            "Impressionism": 2,
+            "New Sculpture": 2,
+            "Aesthetic Movement": 1,
+            "Victorian/Genre": 1,
+            "New English Art Club": 1
+        },
+        "count": 25
+    },
+    "1882": {
+        "mediums": {
+            "painting": 0.76,
+            "drawing": 0.19,
+            "printing": 0.05,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 4,
+            "Victorian/Genre": 3,
+            "Impressionism": 1,
+            "St John's Wood Clique": 1,
+            "Symbolism": 1
+        },
+        "count": 21
+    },
+    "1883": {
+        "mediums": {
+            "painting": 0.6,
+            "drawing": 0.3,
+            "printing": 0.1,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Impressionism": 2,
+            "Victorian/Genre": 1,
+            "Decadence": 1,
+            "Fin de Si\u00e8cle": 1,
+            "New Sculpture": 1,
+            "Symbolism": 1,
+            "Post-Impressionism": 1,
+            "Glasgow School": 1,
+            "Pre-Raphaelite Brotherhood": 1
+        },
+        "count": 20
+    },
+    "1884": {
+        "mediums": {
+            "painting": 0.73,
+            "printing": 0.14,
+            "drawing": 0.14,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 3,
+            "Symbolism": 2,
+            "Decadence": 1,
+            "Fin de Si\u00e8cle": 1,
+            "New Sculpture": 1,
+            "Post-Impressionism": 1,
+            "Rural Naturalism": 1,
+            "Glasgow School": 1
+        },
+        "count": 22
+    },
+    "1885": {
+        "mediums": {
+            "painting": 0.65,
+            "printing": 0.18,
+            "drawing": 0.15,
+            "sculpture": 0.03,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 3,
+            "Symbolism": 3,
+            "Impressionism": 2,
+            "British Impressionism": 1,
+            "Pre-Raphaelite Brotherhood": 1,
+            "New Sculpture": 1,
+            "Neo-Impressionism": 1,
+            "Post-Impressionism": 1,
+            "Newlyn School": 1
+        },
+        "count": 34
+    },
+    "1886": {
+        "mediums": {
+            "painting": 0.6,
+            "printing": 0.27,
+            "drawing": 0.13,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Symbolism": 3,
+            "New Sculpture": 3,
+            "Pre-Raphaelite Brotherhood": 2,
+            "British Impressionism": 2,
+            "Aesthetic Movement": 2,
+            "Newlyn School": 2,
+            "Rural Naturalism": 1,
+            "Art Nouveau": 1,
+            "Decadence": 1,
+            "Fin de Si\u00e8cle": 1
+        },
+        "count": 30
+    },
+    "1887": {
+        "mediums": {
+            "painting": 0.72,
+            "drawing": 0.16,
+            "printing": 0.09,
+            "sculpture": 0.03,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 4,
+            "Pre-Raphaelite Brotherhood": 2,
+            "British Impressionism": 2,
+            "New English Art Club": 2,
+            "Aesthetic Movement": 2,
+            "Impressionism": 1,
+            "Symbolism": 1,
+            "Post-Impressionism": 1
+        },
+        "count": 32
+    },
+    "1888": {
+        "mediums": {
+            "painting": 0.75,
+            "printing": 0.25,
+            "photography": 0.0,
+            "drawing": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 3,
+            "Impressionism": 2,
+            "Pre-Raphaelite Brotherhood": 1,
+            "British Impressionism": 1,
+            "New English Art Club": 1,
+            "Glasgow School": 1,
+            "Newlyn School": 1,
+            "Aesthetic Movement": 1
+        },
+        "count": 28
+    },
+    "1889": {
+        "mediums": {
+            "painting": 0.74,
+            "printing": 0.18,
+            "drawing": 0.06,
+            "sculpture": 0.03,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Victorian/Genre": 5,
+            "British Impressionism": 4,
+            "New English Art Club": 4,
+            "Newlyn School": 2,
+            "New Sculpture": 2,
+            "Pre-Raphaelite Brotherhood": 1,
+            "Post-Impressionism": 1,
+            "Rural Naturalism": 1
+        },
+        "count": 34
+    },
+    "1890": {
+        "mediums": {
+            "painting": 0.55,
+            "drawing": 0.32,
+            "printing": 0.13,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 5,
+            "Post-Impressionism": 3,
+            "Impressionism": 2,
+            "New English Art Club": 1,
+            "Symbolism": 1,
+            "New Sculpture": 1
+        },
+        "count": 38
+    },
+    "1891": {
+        "mediums": {
+            "painting": 0.7,
+            "printing": 0.15,
+            "drawing": 0.07,
+            "sculpture": 0.07,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "New English Art Club": 4,
+            "British Impressionism": 3,
+            "Fin de Si\u00e8cle": 2,
+            "New Sculpture": 2,
+            "Aesthetic Movement": 2,
+            "St John's Wood Clique": 1,
+            "Impressionism": 1,
+            "Decadence": 1,
+            "Symbolism": 1,
+            "Post-Impressionism": 1,
+            "Rural Naturalism": 1,
+            "Bloomsbury Group": 1
+        },
+        "count": 27
+    },
+    "1892": {
+        "mediums": {
+            "painting": 0.79,
+            "printing": 0.11,
+            "drawing": 0.11,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Symbolism": 5,
+            "Decadence": 2,
+            "Fin de Si\u00e8cle": 2,
+            "Aesthetic Movement": 2,
+            "New Sculpture": 1,
+            "Pre-Raphaelite Brotherhood": 1,
+            "British Impressionism": 1,
+            "Camden Town Group": 1,
+            "New English Art Club": 1
+        },
+        "count": 19
+    },
+    "1893": {
+        "mediums": {
+            "painting": 0.44,
+            "printing": 0.28,
+            "drawing": 0.24,
+            "sculpture": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Art Nouveau": 4,
+            "Decadence": 4,
+            "Fin de Si\u00e8cle": 4,
+            "Symbolism": 4,
+            "Post-Impressionism": 1,
+            "Rural Naturalism": 1,
+            "British Impressionism": 1,
+            "New English Art Club": 1,
+            "Pre-Raphaelite Brotherhood": 1,
+            "New Sculpture": 1,
+            "Camden Town Group": 1
+        },
+        "count": 25
+    },
+    "1894": {
+        "mediums": {
+            "painting": 0.8,
+            "drawing": 0.17,
+            "printing": 0.03,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Fin de Si\u00e8cle": 4,
+            "Art Nouveau": 3,
+            "Symbolism": 3,
+            "British Impressionism": 2,
+            "Camden Town Group": 2,
+            "New English Art Club": 2,
+            "Decadence": 2,
+            "Impressionism": 2,
+            "Victorian/Genre": 2,
+            "Neo-Impressionism": 1,
+            "Aesthetic Movement": 1,
+            "Newlyn School": 1,
+            "New Sculpture": 1,
+            "Pre-Raphaelite Brotherhood": 1
+        },
+        "count": 30
+    },
+    "1895": {
+        "mediums": {
+            "painting": 0.69,
+            "drawing": 0.23,
+            "printing": 0.08,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Fin de Si\u00e8cle": 3,
+            "Symbolism": 3,
+            "Aesthetic Movement": 2,
+            "New English Art Club": 2,
+            "Art Nouveau": 2,
+            "Decadence": 2,
+            "Glasgow School": 1,
+            "New Sculpture": 1,
+            "Rural Naturalism": 1,
+            "Post-Impressionism": 1
+        },
+        "count": 26
+    },
+    "1896": {
+        "mediums": {
+            "painting": 0.65,
+            "printing": 0.17,
+            "drawing": 0.13,
+            "sculpture": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Camden Town Group": 2,
+            "New English Art Club": 2,
+            "Symbolism": 2,
+            "British Impressionism": 1,
+            "Aesthetic Movement": 1,
+            "Decadence": 1,
+            "Fin de Si\u00e8cle": 1,
+            "Newlyn School": 1,
+            "Rural Naturalism": 1,
+            "Victorian/Genre": 1,
+            "Pre-Raphaelite Brotherhood": 1,
+            "Post-Impressionism": 1
+        },
+        "count": 23
+    },
+    "1897": {
+        "mediums": {
+            "painting": 0.52,
+            "printing": 0.45,
+            "drawing": 0.03,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Pre-Raphaelite Brotherhood": 1,
+            "Victorian/Genre": 1,
+            "British Impressionism": 1,
+            "New English Art Club": 1
+        },
+        "count": 31
+    },
+    "1898": {
+        "mediums": {
+            "painting": 0.75,
+            "printing": 0.12,
+            "drawing": 0.12,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "New English Art Club": 2,
+            "Post-Impressionism": 2,
+            "Impressionism": 1,
+            "Glasgow School": 1,
+            "Victorian/Genre": 1,
+            "Pre-Raphaelite Brotherhood": 1,
+            "Symbolism": 1,
+            "Newlyn School": 1
+        },
+        "count": 24
+    },
+    "1899": {
+        "mediums": {
+            "painting": 0.55,
+            "printing": 0.34,
+            "drawing": 0.11,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Aesthetic Movement": 2,
+            "Decadence": 1,
+            "Fin de Si\u00e8cle": 1,
+            "British Impressionism": 1,
+            "Camden Town Group": 1,
+            "New English Art Club": 1
+        },
+        "count": 44
+    },
+    "1900": {
+        "mediums": {
+            "painting": 0.71,
+            "drawing": 0.21,
+            "printing": 0.08,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Symbolism": 2,
+            "New English Art Club": 2,
+            "Camden Town Group": 2,
+            "Intimism": 1,
+            "Decadence": 1,
+            "Fin de Si\u00e8cle": 1,
+            "New Sculpture": 1,
+            "Impressionism": 1,
+            "British Impressionism": 1
+        },
+        "count": 38
+    },
+    "1901": {
+        "mediums": {
+            "painting": 0.78,
+            "drawing": 0.19,
+            "printing": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Camden Town Group": 3,
+            "Aesthetic Movement": 2,
+            "New English Art Club": 1,
+            "New Sculpture": 1,
+            "Impressionism": 1
+        },
+        "count": 27
+    },
+    "1902": {
+        "mediums": {
+            "painting": 0.57,
+            "drawing": 0.39,
+            "printing": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Impressionism": 2,
+            "Bloomsbury Group": 1
+        },
+        "count": 75
+    },
+    "1903": {
+        "mediums": {
+            "painting": 0.54,
+            "drawing": 0.29,
+            "printing": 0.07,
+            "sculpture": 0.07,
+            "photography": 0.04,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Camden Town Group": 1,
+            "Neo-Impressionism": 1,
+            "Impressionism": 1
+        },
+        "count": 28
+    },
+    "1904": {
+        "mediums": {
+            "painting": 0.67,
+            "drawing": 0.28,
+            "printing": 0.04,
+            "sculpture": 0.02,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Camden Town Group": 3,
+            "British Impressionism": 3,
+            "Impressionism": 2,
+            "Decadence": 2,
+            "Fin de Si\u00e8cle": 2,
+            "New Sculpture": 2,
+            "Rural Naturalism": 2,
+            "Art Nouveau": 1,
+            "Aesthetic Movement": 1,
+            "Glasgow School": 1,
+            "Victorian/Genre": 1,
+            "Symbolism": 1
+        },
+        "count": 54
+    },
+    "1905": {
+        "mediums": {
+            "painting": 0.6,
+            "printing": 0.21,
+            "drawing": 0.19,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Fin de Si\u00e8cle": 4,
+            "Decadence": 3,
+            "Aesthetic Movement": 2,
+            "Fauvism": 2,
+            "Symbolism": 2,
+            "New English Art Club": 1,
+            "Bloomsbury Group": 1,
+            "Camden Town Group": 1
+        },
+        "count": 48
+    },
+    "1906": {
+        "mediums": {
+            "painting": 0.47,
+            "drawing": 0.47,
+            "printing": 0.05,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Camden Town Group": 3,
+            "Post-Impressionism": 2,
+            "Aesthetic Movement": 2,
+            "Decadence": 2,
+            "Fin de Si\u00e8cle": 2,
+            "Fauvism": 1
+        },
+        "count": 74
+    },
+    "1907": {
+        "mediums": {
+            "painting": 0.68,
+            "drawing": 0.2,
+            "printing": 0.1,
+            "photography": 0.02,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Camden Town Group": 4,
+            "London Group": 1,
+            "New Sculpture": 1,
+            "British Impressionism": 1,
+            "New English Art Club": 1,
+            "Expressionism": 1,
+            "Scottish Colourists": 1,
+            "Fauvism": 1
+        },
+        "count": 41
+    },
+    "1908": {
+        "mediums": {
+            "painting": 0.62,
+            "drawing": 0.31,
+            "printing": 0.05,
+            "photography": 0.03,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Impressionism": 2,
+            "British Impressionism": 1,
+            "Rural Naturalism": 1,
+            "Camden Town Group": 1,
+            "Intimism": 1,
+            "Post-Impressionism": 1
+        },
+        "count": 65
+    },
+    "1909": {
+        "mediums": {
+            "painting": 0.56,
+            "drawing": 0.34,
+            "printing": 0.09,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "New English Art Club": 1,
+            "Camden Town Group": 1,
+            "Cubism": 1,
+            "Bloomsbury Group": 1
+        },
+        "count": 32
+    },
+    "1910": {
+        "mediums": {
+            "painting": 0.71,
+            "printing": 0.12,
+            "drawing": 0.12,
+            "photography": 0.02,
+            "sculpture": 0.02,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Camden Town Group": 7,
+            "Bloomsbury Group": 2,
+            "Cubism": 2,
+            "Naive": 1,
+            "New English Art Club": 1,
+            "Post-Impressionism": 1,
+            "Intimism": 1,
+            "Futurism": 1,
+            "Scottish Colourists": 1,
+            "Direct Carving": 1
+        },
+        "count": 56
+    },
+    "1911": {
+        "mediums": {
+            "painting": 0.72,
+            "drawing": 0.14,
+            "printing": 0.11,
+            "photography": 0.01,
+            "sculpture": 0.01,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Camden Town Group": 9,
+            "Bloomsbury Group": 4,
+            "Cubism": 3,
+            "Blaue Reiter, Der": 1,
+            "Impressionism": 1,
+            "Post-Impressionism": 1,
+            "Dada": 1,
+            "Direct Carving": 1
+        },
+        "count": 72
+    },
+    "1912": {
+        "mediums": {
+            "painting": 0.67,
+            "printing": 0.15,
+            "drawing": 0.14,
+            "sculpture": 0.03,
+            "photography": 0.01,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Camden Town Group": 17,
+            "Bloomsbury Group": 6,
+            "London Group": 2,
+            "Cubism": 2,
+            "Br\u00fccke": 1,
+            "Expressionism": 1,
+            "Leeds Arts Club": 1,
+            "Rayonism": 1,
+            "Orphic Cubism": 1,
+            "Vorticism": 1
+        },
+        "count": 93
+    },
+    "1913": {
+        "mediums": {
+            "painting": 0.5,
+            "drawing": 0.43,
+            "printing": 0.04,
+            "sculpture": 0.03,
+            "experimental": 0.01,
+            "photography": 0.0,
+            "performance / film / sound": 0.0
+        },
+        "movements": {
+            "Camden Town Group": 11,
+            "Vorticism": 7,
+            "Bloomsbury Group": 4,
+            "Cubism": 4,
+            "Futurism": 3,
+            "Direct Carving": 2,
+            "London Group": 2,
+            "New English Art Club": 1,
+            "Post-Impressionism": 1,
+            "Metaphysical Art": 1,
+            "Surrealism": 1,
+            "De Stijl": 1,
+            "Rayonism": 1,
+            "Orphic Cubism": 1
+        },
+        "count": 117
+    },
+    "1914": {
+        "mediums": {
+            "painting": 0.58,
+            "drawing": 0.3,
+            "printing": 0.09,
+            "sculpture": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Vorticism": 8,
+            "Camden Town Group": 7,
+            "Cubism": 4,
+            "Bloomsbury Group": 4,
+            "New English Art Club": 2,
+            "Rayonism": 1,
+            "Dada": 1,
+            "Kinetic Art": 1,
+            "Futurism": 1,
+            "London Group": 1
+        },
+        "count": 57
+    },
+    "1915": {
+        "mediums": {
+            "painting": 0.58,
+            "drawing": 0.23,
+            "printing": 0.11,
+            "sculpture": 0.05,
+            "photography": 0.02,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Vorticism": 9,
+            "Intimism": 5,
+            "Futurism": 4,
+            "Camden Town Group": 4,
+            "Bloomsbury Group": 4,
+            "Cubism": 2,
+            "New Sculpture": 1,
+            "Br\u00fccke": 1,
+            "Expressionism": 1,
+            "New English Art Club": 1,
+            "Impressionism": 1
+        },
+        "count": 81
+    },
+    "1916": {
+        "mediums": {
+            "painting": 0.52,
+            "drawing": 0.35,
+            "printing": 0.09,
+            "sculpture": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Cubism": 4,
+            "Camden Town Group": 3,
+            "Supremetism": 2,
+            "New Sculpture": 1,
+            "Futurism": 1,
+            "Fauvism": 1,
+            "Metaphysical Art": 1,
+            "Constructivism": 1,
+            "Bloomsbury Group": 1,
+            "Expressionism": 1
+        },
+        "count": 77
+    },
+    "1917": {
+        "mediums": {
+            "printing": 0.61,
+            "painting": 0.2,
+            "drawing": 0.16,
+            "sculpture": 0.02,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British War Art": 71,
+            "Camden Town Group": 2,
+            "Bloomsbury Group": 2,
+            "Br\u00fccke": 1,
+            "Expressionism": 1,
+            "Dada": 1,
+            "Cubism": 1,
+            "Constructivism": 1
+        },
+        "count": 147
+    },
+    "1918": {
+        "mediums": {
+            "painting": 0.61,
+            "drawing": 0.29,
+            "printing": 0.1,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "sculpture": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Camden Town Group": 3,
+            "London Group": 2,
+            "Impressionism": 2,
+            "Neo-Impressionism": 1,
+            "Bloomsbury Group": 1,
+            "British War Art": 1,
+            "De Stijl": 1,
+            "Constructivism": 1,
+            "Expressionism": 1,
+            "Vorticism": 1
+        },
+        "count": 31
+    },
+    "1919": {
+        "mediums": {
+            "painting": 0.48,
+            "drawing": 0.34,
+            "printing": 0.16,
+            "sculpture": 0.01,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Intimism": 11,
+            "Vorticism": 7,
+            "Group X": 3,
+            "Constructivism": 2,
+            "Cubism": 2,
+            "Br\u00fccke": 1,
+            "Expressionism": 1,
+            "Dada": 1,
+            "De Stijl": 1,
+            "Neo-Plasticism": 1,
+            "Bloomsbury Group": 1
+        },
+        "count": 85
+    },
+    "1920": {
+        "mediums": {
+            "painting": 0.58,
+            "drawing": 0.29,
+            "printing": 0.12,
+            "sculpture": 0.01,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Camden Town Group": 4,
+            "Group X": 4,
+            "Vorticism": 4,
+            "Bloomsbury Group": 3,
+            "Cubism": 3,
+            "Dada": 2,
+            "London Group": 1,
+            "Neo-Plasticism": 1,
+            "Constructivism": 1,
+            "Kinetic Art": 1,
+            "Direct Carving": 1,
+            "Intimism": 1,
+            "Purism": 1,
+            "Return to Order": 1
+        },
+        "count": 90
+    },
+    "1921": {
+        "mediums": {
+            "painting": 0.53,
+            "printing": 0.27,
+            "drawing": 0.11,
+            "sculpture": 0.09,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Bloomsbury Group": 3,
+            "Cubism": 2,
+            "Bauhaus": 1,
+            "Direct Carving": 1,
+            "Group X": 1,
+            "Surrealism": 1,
+            "Constructivism": 1
+        },
+        "count": 45
+    },
+    "1922": {
+        "mediums": {
+            "painting": 0.63,
+            "drawing": 0.18,
+            "printing": 0.15,
+            "sculpture": 0.03,
+            "photography": 0.01,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Camden Town Group": 3,
+            "London Group": 3,
+            "Group X": 2,
+            "Bloomsbury Group": 2,
+            "Bauhaus": 2,
+            "Glasgow School": 1,
+            "Intimism": 1,
+            "St Ives School": 1,
+            "Dada": 1,
+            "Purism": 1,
+            "Kinetic Art": 1,
+            "Constructivism": 1,
+            "Cubism": 1
+        },
+        "count": 68
+    },
+    "1923": {
+        "mediums": {
+            "painting": 0.45,
+            "printing": 0.33,
+            "drawing": 0.18,
+            "sculpture": 0.02,
+            "photography": 0.01,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Constructivism": 11,
+            "Camden Town Group": 3,
+            "Bloomsbury Group": 2,
+            "Group X": 2,
+            "Surrealism": 2,
+            "Return to Order": 1,
+            "British Impressionism": 1,
+            "Scottish Colourists": 1,
+            "Direct Carving": 1,
+            "Expressionism": 1,
+            "Intimism": 1
+        },
+        "count": 82
+    },
+    "1924": {
+        "mediums": {
+            "painting": 0.56,
+            "printing": 0.2,
+            "drawing": 0.18,
+            "sculpture": 0.05,
+            "photography": 0.02,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Cubism": 6,
+            "London Group": 3,
+            "Camden Town Group": 2,
+            "Surrealism": 2,
+            "Group X": 2,
+            "Direct Carving": 1,
+            "Seven and Five": 1,
+            "Dada": 1
+        },
+        "count": 61
+    },
+    "1925": {
+        "mediums": {
+            "painting": 0.52,
+            "printing": 0.25,
+            "drawing": 0.19,
+            "sculpture": 0.03,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Intimism": 4,
+            "Constructivism": 4,
+            "Return to Order": 2,
+            "Expressionism": 2,
+            "De Stijl": 2,
+            "Surrealism": 2,
+            "Neo-Romanticism": 2,
+            "Newlyn School": 1,
+            "Camden Town Group": 1,
+            "Bauhaus": 1,
+            "Neue Sachlichkeit": 1,
+            "Direct Carving": 1,
+            "Group X": 1,
+            "Bloomsbury Group": 1
+        },
+        "count": 67
+    },
+    "1926": {
+        "mediums": {
+            "painting": 0.43,
+            "printing": 0.28,
+            "drawing": 0.22,
+            "photography": 0.04,
+            "sculpture": 0.03,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "London Group": 1,
+            "Newlyn School": 1,
+            "Metaphysical Art": 1,
+            "Scuola Romana": 1,
+            "Surrealism": 1,
+            "Direct Carving": 1,
+            "Br\u00fccke": 1,
+            "Constructivism": 1,
+            "Purism": 1
+        },
+        "count": 68
+    },
+    "1927": {
+        "mediums": {
+            "painting": 0.45,
+            "printing": 0.26,
+            "drawing": 0.15,
+            "photography": 0.08,
+            "sculpture": 0.06,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Surrealism": 3,
+            "Glasgow School": 1,
+            "Purism": 1,
+            "Bloomsbury Group": 1,
+            "Camden Town Group": 1,
+            "London Group": 1,
+            "St Ives School": 1,
+            "Constructivism": 1,
+            "Fauvism": 1,
+            "Vorticism": 1
+        },
+        "count": 53
+    },
+    "1928": {
+        "mediums": {
+            "painting": 0.54,
+            "drawing": 0.16,
+            "photography": 0.13,
+            "printing": 0.09,
+            "sculpture": 0.07,
+            "experimental": 0.01,
+            "performance / film / sound": 0.0
+        },
+        "movements": {
+            "Naive": 5,
+            "St Ives School": 5,
+            "Direct Carving": 4,
+            "Surrealism": 3,
+            "Purism": 2,
+            "Vorticism": 2,
+            "Constructivism": 2,
+            "Seven and Five": 1,
+            "Dada": 1,
+            "Merz": 1,
+            "Scuola Romana": 1,
+            "British Surrealism": 1
+        },
+        "count": 70
+    },
+    "1929": {
+        "mediums": {
+            "painting": 0.5,
+            "drawing": 0.17,
+            "photography": 0.13,
+            "printing": 0.08,
+            "sculpture": 0.07,
+            "experimental": 0.05,
+            "performance / film / sound": 0.0
+        },
+        "movements": {
+            "Direct Carving": 5,
+            "Cubism": 2,
+            "Seven and Five": 2,
+            "Camden Town Group": 2,
+            "Fauvism": 1,
+            "New English Art Club": 1
+        },
+        "count": 60
+    },
+    "1930": {
+        "mediums": {
+            "painting": 0.49,
+            "printing": 0.26,
+            "drawing": 0.14,
+            "photography": 0.07,
+            "sculpture": 0.04,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Bloomsbury Group": 11,
+            "Surrealism": 6,
+            "Constructivism": 3,
+            "Neo-Romanticism": 2,
+            "British Surrealism": 2,
+            "Direct Carving": 2,
+            "Camden Town Group": 1,
+            "Seven and Five": 1,
+            "Expressionism": 1,
+            "Neue Sachlichkeit": 1,
+            "St Ives School": 1,
+            "Artists International Association": 1,
+            "Return to Order": 1
+        },
+        "count": 76
+    },
+    "1931": {
+        "mediums": {
+            "painting": 0.52,
+            "drawing": 0.24,
+            "printing": 0.1,
+            "sculpture": 0.08,
+            "photography": 0.06,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Direct Carving": 2,
+            "Unit One": 2,
+            "Camden Town Group": 1,
+            "Bloomsbury Group": 1,
+            "Fauvism": 1
+        },
+        "count": 50
+    },
+    "1932": {
+        "mediums": {
+            "painting": 0.49,
+            "photography": 0.21,
+            "sculpture": 0.13,
+            "drawing": 0.1,
+            "printing": 0.06,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Direct Carving": 4,
+            "Camden Town Group": 2,
+            "Abstraction-Cr\u00e9ation": 2,
+            "Surrealism": 2,
+            "British Surrealism": 2,
+            "Seven and Five": 1,
+            "Fauvism": 1,
+            "Naive": 1,
+            "St Ives School": 1,
+            "Constructivism": 1,
+            "Bauhaus": 1
+        },
+        "count": 67
+    },
+    "1933": {
+        "mediums": {
+            "painting": 0.49,
+            "printing": 0.23,
+            "drawing": 0.17,
+            "sculpture": 0.09,
+            "photography": 0.01,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Artists International Association": 8,
+            "Unit One": 7,
+            "British Surrealism": 4,
+            "Direct Carving": 3,
+            "Surrealism": 2,
+            "Bauhaus": 2,
+            "Camden Town Group": 1,
+            "Fauvism": 1,
+            "Cubism": 1,
+            "Bloomsbury Group": 1,
+            "Dada": 1,
+            "Euston Road School": 1
+        },
+        "count": 69
+    },
+    "1934": {
+        "mediums": {
+            "painting": 0.47,
+            "drawing": 0.22,
+            "printing": 0.13,
+            "sculpture": 0.12,
+            "photography": 0.06,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Unit One": 7,
+            "Artists International Association": 4,
+            "Seven and Five": 3,
+            "Surrealism": 2,
+            "Abstraction-Cr\u00e9ation": 2,
+            "British Surrealism": 2,
+            "Direct Carving": 2,
+            "Impressionism": 1,
+            "Newlyn School": 1,
+            "Realism": 1,
+            "Orphic Cubism": 1,
+            "Bloomsbury Group": 1,
+            "Neo-Romanticism": 1,
+            "Naive": 1,
+            "St Ives School": 1
+        },
+        "count": 68
+    },
+    "1935": {
+        "mediums": {
+            "painting": 0.65,
+            "printing": 0.14,
+            "drawing": 0.14,
+            "photography": 0.04,
+            "sculpture": 0.04,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Constructivism": 6,
+            "Camden Town Group": 5,
+            "Unit One": 5,
+            "Abstraction-Cr\u00e9ation": 5,
+            "Seven and Five": 2,
+            "Surrealism": 2,
+            "Direct Carving": 2,
+            "St Ives School": 2,
+            "Objective Abstraction": 2,
+            "Artists International Association": 2,
+            "Newlyn School": 1,
+            "Group X": 1,
+            "British Surrealism": 1,
+            "Neo-Plasticism": 1
+        },
+        "count": 80
+    },
+    "1936": {
+        "mediums": {
+            "painting": 0.46,
+            "drawing": 0.22,
+            "photography": 0.12,
+            "printing": 0.11,
+            "sculpture": 0.08,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Surrealism": 9,
+            "British Surrealism": 9,
+            "Constructivism": 6,
+            "Unit One": 5,
+            "Abstraction-Cr\u00e9ation": 3,
+            "Objective Abstraction": 3,
+            "Naive": 2,
+            "St Ives School": 2,
+            "Neo-Romanticism": 1,
+            "De Stijl": 1,
+            "Direct Carving": 1,
+            "Seven and Five": 1,
+            "Socialist Realism": 1,
+            "New English Art Club": 1,
+            "School of London": 1
+        },
+        "count": 98
+    },
+    "1937": {
+        "mediums": {
+            "painting": 0.52,
+            "drawing": 0.24,
+            "printing": 0.11,
+            "sculpture": 0.1,
+            "photography": 0.03,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Constructivism": 10,
+            "British Surrealism": 6,
+            "Abstraction-Cr\u00e9ation": 6,
+            "Surrealism": 4,
+            "Euston Road School": 3,
+            "Socialist Realism": 3,
+            "Artists International Association": 3,
+            "Unit One": 2,
+            "Camden Town Group": 2,
+            "Naive": 1,
+            "British Constructivism": 1
+        },
+        "count": 103
+    },
+    "1938": {
+        "mediums": {
+            "painting": 0.55,
+            "drawing": 0.25,
+            "photography": 0.12,
+            "printing": 0.06,
+            "sculpture": 0.03,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British Surrealism": 8,
+            "Surrealism": 5,
+            "Constructivism": 5,
+            "Euston Road School": 4,
+            "Unit One": 3,
+            "Neo-Romanticism": 3,
+            "Abstraction-Cr\u00e9ation": 3,
+            "Direct Carving": 1,
+            "Intimism": 1,
+            "Objective Abstraction": 1,
+            "Dada": 1,
+            "Merz": 1
+        },
+        "count": 102
+    },
+    "1939": {
+        "mediums": {
+            "painting": 0.46,
+            "drawing": 0.19,
+            "printing": 0.18,
+            "photography": 0.15,
+            "sculpture": 0.03,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British Surrealism": 10,
+            "Neo-Romanticism": 9,
+            "Artists International Association": 5,
+            "Bauhaus": 2,
+            "Aesthetic Movement": 1,
+            "Camden Town Group": 1,
+            "Euston Road School": 1,
+            "Surrealism": 1,
+            "Modern Realism": 1,
+            "Unit One": 1,
+            "Dada": 1,
+            "Merz": 1,
+            "Naive": 1,
+            "St Ives School": 1,
+            "Constructivism": 1
+        },
+        "count": 107
+    },
+    "1940": {
+        "mediums": {
+            "painting": 0.63,
+            "drawing": 0.27,
+            "printing": 0.05,
+            "sculpture": 0.05,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British War Art": 13,
+            "Neo-Romanticism": 10,
+            "British Surrealism": 10,
+            "St Ives School": 4,
+            "Constructivism": 3,
+            "Artists International Association": 3,
+            "Bloomsbury Group": 2,
+            "Naive": 2,
+            "Camden Town Group": 1,
+            "Objective Abstraction": 1,
+            "Expressionism": 1,
+            "Euston Road School": 1
+        },
+        "count": 115
+    },
+    "1941": {
+        "mediums": {
+            "painting": 0.43,
+            "drawing": 0.35,
+            "printing": 0.16,
+            "sculpture": 0.03,
+            "photography": 0.02,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British War Art": 22,
+            "Neo-Romanticism": 9,
+            "Constructivism": 4,
+            "St Ives School": 3,
+            "Euston Road School": 2,
+            "Surrealism": 2,
+            "Camden Town Group": 1,
+            "British Surrealism": 1,
+            "Direct Carving": 1,
+            "Abstraction-Cr\u00e9ation": 1,
+            "Art Informel": 1
+        },
+        "count": 122
+    },
+    "1942": {
+        "mediums": {
+            "painting": 0.47,
+            "drawing": 0.3,
+            "printing": 0.22,
+            "sculpture": 0.01,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British War Art": 14,
+            "Neo-Romanticism": 6,
+            "Expressionism": 3,
+            "British Surrealism": 2,
+            "Surrealism": 2,
+            "St Ives School": 2,
+            "Bloomsbury Group": 1,
+            "Euston Road School": 1,
+            "Camden Town Group": 1,
+            "Constructivism": 1,
+            "Art Informel": 1,
+            "Neo-Plasticism": 1,
+            "Naive": 1,
+            "Artists International Association": 1
+        },
+        "count": 90
+    },
+    "1943": {
+        "mediums": {
+            "painting": 0.76,
+            "drawing": 0.12,
+            "printing": 0.07,
+            "sculpture": 0.05,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British War Art": 6,
+            "Neo-Romanticism": 3,
+            "Surrealism": 3,
+            "Euston Road School": 2,
+            "Modern Realism": 2,
+            "British Surrealism": 1,
+            "Abstract Expressionism": 1,
+            "Constructivism": 1,
+            "St Ives School": 1
+        },
+        "count": 41
+    },
+    "1944": {
+        "mediums": {
+            "painting": 0.52,
+            "drawing": 0.32,
+            "printing": 0.12,
+            "sculpture": 0.04,
+            "photography": 0.0,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Neo-Romanticism": 21,
+            "British War Art": 13,
+            "St Ives School": 3,
+            "School of London": 2,
+            "Constructivism": 2,
+            "Euston Road School": 2,
+            "Art Informel": 2,
+            "British Surrealism": 1,
+            "Surrealism": 1,
+            "Socialist Realism": 1,
+            "Dada": 1,
+            "Merz": 1,
+            "Bloomsbury Group": 1,
+            "Tachism": 1,
+            "Art Brut": 1
+        },
+        "count": 81
+    },
+    "1945": {
+        "mediums": {
+            "painting": 0.52,
+            "drawing": 0.25,
+            "printing": 0.13,
+            "sculpture": 0.06,
+            "photography": 0.02,
+            "experimental": 0.02,
+            "performance / film / sound": 0.0
+        },
+        "movements": {
+            "Neo-Romanticism": 5,
+            "British War Art": 3,
+            "Euston Road School": 2,
+            "St Ives School": 2,
+            "Art Informel": 2,
+            "School of London": 1,
+            "Expressionism": 1,
+            "Dada": 1,
+            "Merz": 1,
+            "Cubism": 1,
+            "Tachism": 1,
+            "Surrealism": 1,
+            "Bauhaus": 1
+        },
+        "count": 52
+    },
+    "1946": {
+        "mediums": {
+            "painting": 0.45,
+            "printing": 0.29,
+            "drawing": 0.2,
+            "sculpture": 0.05,
+            "photography": 0.02,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Neo-Romanticism": 5,
+            "Art Brut": 2,
+            "St Ives School": 2,
+            "Art Informel": 1,
+            "Abstract Expressionism": 1,
+            "Constructivism": 1,
+            "School of London": 1,
+            "Independent Group": 1,
+            "British Surrealism": 1
+        },
+        "count": 56
+    },
+    "1947": {
+        "mediums": {
+            "painting": 0.46,
+            "printing": 0.23,
+            "drawing": 0.23,
+            "sculpture": 0.07,
+            "photography": 0.01,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "St Ives School": 5,
+            "Art Informel": 3,
+            "Surrealism": 3,
+            "Abstract Expressionism": 2,
+            "British Pop": 2,
+            "Independent Group": 2,
+            "School of London": 2,
+            "Tachism": 2,
+            "London Group": 1,
+            "Art Brut": 1,
+            "Neo-Romanticism": 1
+        },
+        "count": 74
+    },
+    "1948": {
+        "mediums": {
+            "painting": 0.59,
+            "drawing": 0.18,
+            "sculpture": 0.12,
+            "printing": 0.07,
+            "photography": 0.04,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British Pop": 4,
+            "Independent Group": 4,
+            "Cobra": 4,
+            "Neo-Romanticism": 3,
+            "St Ives School": 3,
+            "Constructivism": 2,
+            "Geometry of Fear": 2,
+            "Abstract Expressionism": 2,
+            "School of London": 1,
+            "Euston Road School": 1,
+            "Scuola Romana": 1,
+            "Art Informel": 1
+        },
+        "count": 68
+    },
+    "1949": {
+        "mediums": {
+            "painting": 0.42,
+            "printing": 0.34,
+            "drawing": 0.15,
+            "sculpture": 0.05,
+            "photography": 0.03,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Independent Group": 12,
+            "Geometry of Fear": 7,
+            "St Ives School": 6,
+            "British Constructivism": 5,
+            "Surrealism": 4,
+            "Cobra": 4,
+            "Socialist Realism": 3,
+            "Constructivism": 2,
+            "Abstract Expressionism": 1,
+            "Neo-Romanticism": 1,
+            "Neo-Plasticism": 1,
+            "British Pop": 1
+        },
+        "count": 91
+    },
+    "1950": {
+        "mediums": {
+            "printing": 0.56,
+            "painting": 0.28,
+            "drawing": 0.07,
+            "photography": 0.05,
+            "sculpture": 0.03,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Constructivism": 16,
+            "St Ives School": 13,
+            "Independent Group": 8,
+            "Geometry of Fear": 6,
+            "British Constructivism": 3,
+            "British Pop": 2,
+            "Neo-Romanticism": 2,
+            "Angry Penguins": 1,
+            "Socialist Realism": 1,
+            "Art Brut": 1,
+            "Art Informel": 1,
+            "Abstract Expressionism": 1,
+            "Spazialismo": 1,
+            "Surrealism": 1,
+            "Cobra": 1
+        },
+        "count": 151
+    },
+    "1951": {
+        "mediums": {
+            "painting": 0.4,
+            "printing": 0.27,
+            "drawing": 0.16,
+            "sculpture": 0.1,
+            "photography": 0.07,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "St Ives School": 18,
+            "Neo-Romanticism": 4,
+            "Geometry of Fear": 4,
+            "Independent Group": 3,
+            "Kinetic Art": 2,
+            "School of London": 2,
+            "British Constructivism": 2,
+            "Pop Art": 2,
+            "Euston Road School": 1,
+            "British Pop": 1,
+            "London Group": 1,
+            "Abstract Expressionism": 1,
+            "Surrealism": 1,
+            "Socialist Realism": 1,
+            "Bauhaus": 1,
+            "Post Painterly Abstraction": 1
+        },
+        "count": 73
+    },
+    "1952": {
+        "mediums": {
+            "painting": 0.54,
+            "drawing": 0.2,
+            "printing": 0.14,
+            "sculpture": 0.09,
+            "photography": 0.03,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "St Ives School": 8,
+            "School of London": 7,
+            "Geometry of Fear": 6,
+            "British Constructivism": 5,
+            "Independent Group": 4,
+            "Surrealism": 3,
+            "Abstract Expressionism": 3,
+            "Constructivism": 3,
+            "Art Informel": 3,
+            "Tachism": 2,
+            "British Pop": 2,
+            "Post Painterly Abstraction": 1,
+            "Modern Realism": 1,
+            "Spazialismo": 1,
+            "Neo-Romanticism": 1,
+            "Expressionism": 1
+        },
+        "count": 104
+    },
+    "1953": {
+        "mediums": {
+            "painting": 0.44,
+            "drawing": 0.24,
+            "printing": 0.19,
+            "sculpture": 0.09,
+            "photography": 0.03,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Geometry of Fear": 8,
+            "Art Informel": 6,
+            "Independent Group": 6,
+            "St Ives School": 5,
+            "Neo-Romanticism": 4,
+            "Origine group": 3,
+            "Socialist Realism": 2,
+            "British Constructivism": 2,
+            "British Pop": 2,
+            "Pop Art": 2,
+            "Tachism": 1,
+            "Abstract Expressionism": 1,
+            "Kitchen Sink Art": 1,
+            "Arte Nucleare": 1,
+            "Spazialismo": 1,
+            "Euston Road School": 1,
+            "Surrealism": 1
+        },
+        "count": 95
+    },
+    "1954": {
+        "mediums": {
+            "painting": 0.44,
+            "drawing": 0.31,
+            "printing": 0.17,
+            "sculpture": 0.08,
+            "photography": 0.01,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "St Ives School": 10,
+            "British Constructivism": 6,
+            "Geometry of Fear": 5,
+            "Constructivism": 4,
+            "Independent Group": 3,
+            "Art Informel": 2,
+            "Origine group": 2,
+            "School of London": 2,
+            "Pop Art": 2,
+            "Dada": 1,
+            "Tachism": 1,
+            "Cobra": 1,
+            "Kinetic Art": 1,
+            "Nouveau R\u00e9alisme": 1,
+            "Kitchen Sink Art": 1,
+            "British Surrealism": 1,
+            "Surrealism": 1
+        },
+        "count": 114
+    },
+    "1955": {
+        "mediums": {
+            "painting": 0.46,
+            "drawing": 0.25,
+            "printing": 0.18,
+            "sculpture": 0.08,
+            "photography": 0.02,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "St Ives School": 15,
+            "Geometry of Fear": 6,
+            "Kitchen Sink Art": 6,
+            "Independent Group": 3,
+            "School of London": 2,
+            "Constructivism": 2,
+            "Pop Art": 2,
+            "British Surrealism": 1,
+            "Arte Nucleare": 1,
+            "Spazialismo": 1,
+            "London Group": 1,
+            "Angry Penguins": 1,
+            "Surrealism": 1,
+            "Cobra": 1,
+            "Art Informel": 1
+        },
+        "count": 84
+    },
+    "1956": {
+        "mediums": {
+            "painting": 0.44,
+            "printing": 0.27,
+            "drawing": 0.17,
+            "sculpture": 0.08,
+            "photography": 0.04,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "St Ives School": 16,
+            "Constructivism": 10,
+            "Independent Group": 9,
+            "Tachism": 9,
+            "Geometry of Fear": 4,
+            "Art Informel": 3,
+            "Kitchen Sink Art": 2,
+            "British Constructivism": 1,
+            "Angry Penguins": 1,
+            "Neo-Romanticism": 1,
+            "Socialist Realism": 1,
+            "Pop Art": 1
+        },
+        "count": 103
+    },
+    "1957": {
+        "mediums": {
+            "painting": 0.51,
+            "drawing": 0.25,
+            "printing": 0.12,
+            "sculpture": 0.1,
+            "photography": 0.02,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "St Ives School": 9,
+            "Pop Art": 6,
+            "Geometry of Fear": 4,
+            "Independent Group": 4,
+            "Tachism": 4,
+            "Abstract Expressionism": 4,
+            "Situationist International": 3,
+            "Angry Penguins": 3,
+            "Art Informel": 3,
+            "Cobra": 2,
+            "School of London": 2,
+            "Kitchen Sink Art": 1,
+            "Neo-Romanticism": 1,
+            "British Constructivism": 1,
+            "Situation": 1,
+            "Constructivism": 1,
+            "British Pop": 1,
+            "Neo-Concretism": 1
+        },
+        "count": 92
+    },
+    "1958": {
+        "mediums": {
+            "painting": 0.47,
+            "drawing": 0.24,
+            "printing": 0.22,
+            "sculpture": 0.06,
+            "photography": 0.01,
+            "performance / film / sound": 0.01,
+            "experimental": 0.0
+        },
+        "movements": {
+            "St Ives School": 17,
+            "Tachism": 5,
+            "Abstract Expressionism": 5,
+            "Art Informel": 5,
+            "Pop Art": 4,
+            "Geometry of Fear": 2,
+            "School of London": 2,
+            "British Pop": 2,
+            "Situation": 1,
+            "British Surrealism": 1,
+            "Euston Road School": 1,
+            "Neo-Romanticism": 1,
+            "Post Painterly Abstraction": 1,
+            "Spazialismo": 1,
+            "Independent Group": 1
+        },
+        "count": 139
+    },
+    "1959": {
+        "mediums": {
+            "painting": 0.45,
+            "drawing": 0.32,
+            "printing": 0.18,
+            "sculpture": 0.04,
+            "performance / film / sound": 0.01,
+            "photography": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "St Ives School": 12,
+            "Abstract Expressionism": 7,
+            "Independent Group": 6,
+            "British Pop": 5,
+            "Pop Art": 3,
+            "Art Informel": 2,
+            "Constructivism": 2,
+            "Neo-Concretism": 2,
+            "Conceptual Art": 2,
+            "Euston Road School": 2,
+            "Cobra": 2,
+            "Situationist International": 2,
+            "Nouveau R\u00e9alisme": 1,
+            "Minimalism": 1,
+            "Geometry of Fear": 1,
+            "Abstraction-Cr\u00e9ation": 1,
+            "School of London": 1,
+            "Tachism": 1,
+            "Socialist Realism": 1,
+            "Surrealism": 1
+        },
+        "count": 152
+    },
+    "1960": {
+        "mediums": {
+            "painting": 0.37,
+            "printing": 0.32,
+            "drawing": 0.18,
+            "sculpture": 0.11,
+            "photography": 0.02,
+            "performance / film / sound": 0.01,
+            "experimental": 0.0
+        },
+        "movements": {
+            "St Ives School": 19,
+            "Pop Art": 6,
+            "Tachism": 4,
+            "School of London": 4,
+            "Situation": 4,
+            "Constructivism": 3,
+            "Post Painterly Abstraction": 2,
+            "British Surrealism": 2,
+            "Spazialismo": 2,
+            "Independent Group": 2,
+            "Nouveau R\u00e9alisme": 2,
+            "Abstract Expressionism": 2,
+            "Actionism": 1,
+            "British Pop": 1,
+            "Angry Penguins": 1,
+            "Body Art": 1,
+            "Conceptual Art": 1,
+            "Socialist Realism": 1,
+            "Euston Road School": 1,
+            "New Generation Sculpture": 1,
+            "Abstraction-Cr\u00e9ation": 1,
+            "Kinetic Art": 1,
+            "Geometry of Fear": 1
+        },
+        "count": 142
+    },
+    "1961": {
+        "mediums": {
+            "painting": 0.45,
+            "printing": 0.24,
+            "drawing": 0.14,
+            "photography": 0.1,
+            "sculpture": 0.06,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "School of London": 36,
+            "St Ives School": 9,
+            "British Pop": 6,
+            "Abstract Expressionism": 4,
+            "Situation": 4,
+            "Pop Art": 3,
+            "British Constructivism": 3,
+            "Post Painterly Abstraction": 2,
+            "Conceptual Art": 2,
+            "Nouveau R\u00e9alisme": 2,
+            "Art Informel": 2,
+            "Tachism": 2,
+            "Geometry of Fear": 2,
+            "Abject art": 1,
+            "Body Art": 1,
+            "Constructivism": 1,
+            "Optical Art": 1,
+            "Surrealism": 1,
+            "Independent Group": 1,
+            "London Group": 1
+        },
+        "count": 211
+    },
+    "1962": {
+        "mediums": {
+            "painting": 0.5,
+            "printing": 0.27,
+            "drawing": 0.14,
+            "sculpture": 0.09,
+            "photography": 0.01,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British Pop": 58,
+            "Independent Group": 54,
+            "Pop Art": 5,
+            "Minimalism": 4,
+            "St Ives School": 4,
+            "School of London": 4,
+            "Tachism": 4,
+            "Post Painterly Abstraction": 3,
+            "New Generation Sculpture": 2,
+            "Situation": 2,
+            "British Constructivism": 2,
+            "Fluxus": 2,
+            "British Surrealism": 1,
+            "Nouveau R\u00e9alisme": 1,
+            "Feminist Art": 1,
+            "Abstract Expressionism": 1,
+            "Geometry of Fear": 1,
+            "Surrealism": 1,
+            "Socialist Realism": 1,
+            "Actionism": 1,
+            "Performance Art": 1,
+            "Conceptual Art": 1
+        },
+        "count": 147
+    },
+    "1963": {
+        "mediums": {
+            "printing": 0.41,
+            "painting": 0.32,
+            "sculpture": 0.17,
+            "drawing": 0.07,
+            "photography": 0.03,
+            "performance / film / sound": 0.01,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British Pop": 12,
+            "New Generation Sculpture": 10,
+            "Geometry of Fear": 8,
+            "British Constructivism": 7,
+            "Independent Group": 5,
+            "St Ives School": 5,
+            "Optical Art": 5,
+            "Post Painterly Abstraction": 3,
+            "Pop Art": 3,
+            "Bauhaus": 2,
+            "Kinetic Art": 2,
+            "Fluxus": 2,
+            "Orphic Cubism": 1,
+            "Art Informel": 1,
+            "School of London": 1,
+            "British Surrealism": 1,
+            "Minimalism": 1,
+            "Experimental Workshop": 1,
+            "Actionism": 1,
+            "Performance Art": 1,
+            "Abstract Expressionism": 1
+        },
+        "count": 159
+    },
+    "1964": {
+        "mediums": {
+            "printing": 0.46,
+            "painting": 0.32,
+            "sculpture": 0.14,
+            "drawing": 0.07,
+            "performance / film / sound": 0.01,
+            "photography": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British Pop": 33,
+            "Abstract Expressionism": 21,
+            "School of London": 10,
+            "New Generation Sculpture": 8,
+            "Pop Art": 8,
+            "Optical Art": 6,
+            "St Ives School": 6,
+            "Post Painterly Abstraction": 5,
+            "Minimalism": 4,
+            "Bauhaus": 2,
+            "Kinetic Art": 2,
+            "Surrealism": 2,
+            "Constructivism": 2,
+            "Geometry of Fear": 1,
+            "Art Informel": 1,
+            "Arte Nucleare": 1,
+            "Fluxus": 1,
+            "Performance Art": 1,
+            "Conceptual Art": 1
+        },
+        "count": 175
+    },
+    "1965": {
+        "mediums": {
+            "printing": 0.37,
+            "painting": 0.26,
+            "sculpture": 0.18,
+            "drawing": 0.15,
+            "photography": 0.02,
+            "performance / film / sound": 0.01,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British Pop": 27,
+            "Optical Art": 16,
+            "St Ives School": 10,
+            "School of London": 8,
+            "New Generation Sculpture": 7,
+            "Pop Art": 6,
+            "Constructivism": 4,
+            "Surrealism": 3,
+            "Post Painterly Abstraction": 3,
+            "Minimalism": 2,
+            "Tachism": 2,
+            "Conceptual Art": 2,
+            "Neo-Expressionism": 2,
+            "Neue Wilden": 2,
+            "Kinetic Art": 1,
+            "London Group": 1,
+            "Vorticism": 1,
+            "Nouveau R\u00e9alisme": 1,
+            "Neo-Concretism": 1,
+            "British Surrealism": 1
+        },
+        "count": 237
+    },
+    "1966": {
+        "mediums": {
+            "printing": 0.5,
+            "sculpture": 0.19,
+            "painting": 0.16,
+            "drawing": 0.11,
+            "photography": 0.02,
+            "performance / film / sound": 0.01,
+            "experimental": 0.01
+        },
+        "movements": {
+            "British Pop": 14,
+            "Pop Art": 14,
+            "Abstract Expressionism": 12,
+            "Geometry of Fear": 11,
+            "New Generation Sculpture": 9,
+            "School of London": 9,
+            "Optical Art": 9,
+            "Kinetic Art": 4,
+            "British Constructivism": 4,
+            "Conceptual Art": 4,
+            "Minimalism": 3,
+            "Land Art": 3,
+            "Performance Art": 2,
+            "Saqqakhaneh": 2,
+            "Post Painterly Abstraction": 2,
+            "Actionism": 1,
+            "Independent Group": 1,
+            "Arte Povera": 1,
+            "Dada": 1,
+            "Environmental Art": 1,
+            "St Ives School": 1,
+            "Bauhaus": 1,
+            "Neo-Expressionism": 1,
+            "Neue Wilden": 1
+        },
+        "count": 209
+    },
+    "1967": {
+        "mediums": {
+            "printing": 0.47,
+            "painting": 0.16,
+            "drawing": 0.16,
+            "sculpture": 0.16,
+            "photography": 0.04,
+            "performance / film / sound": 0.01,
+            "experimental": 0.01
+        },
+        "movements": {
+            "British Pop": 140,
+            "Minimalism": 17,
+            "Pop Art": 17,
+            "School of London": 12,
+            "Conceptual Art": 7,
+            "Abstract Expressionism": 3,
+            "Land Art": 3,
+            "New Generation Sculpture": 2,
+            "Optical Art": 2,
+            "Neo-Expressionism": 2,
+            "Neue Wilden": 2,
+            "British Surrealism": 2,
+            "Arte Povera": 1,
+            "Abstraction-Cr\u00e9ation": 1,
+            "Seven and Five": 1,
+            "Tropic\u00e1lia": 1,
+            "Actionism": 1,
+            "St Ives School": 1,
+            "British Constructivism": 1,
+            "Constructivism": 1
+        },
+        "count": 197
+    },
+    "1968": {
+        "mediums": {
+            "printing": 0.51,
+            "drawing": 0.15,
+            "painting": 0.13,
+            "sculpture": 0.12,
+            "photography": 0.08,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British Pop": 24,
+            "St Ives School": 12,
+            "School of London": 10,
+            "Optical Art": 6,
+            "Conceptual Art": 5,
+            "Land Art": 5,
+            "Performance Art": 4,
+            "Constructivism": 4,
+            "Arte Povera": 3,
+            "New Generation Sculpture": 3,
+            "Minimalism": 3,
+            "Environmental Art": 3,
+            "Feminist Art": 3,
+            "Post Painterly Abstraction": 2,
+            "Pop Art": 2,
+            "Body Art": 1,
+            "Nouveau R\u00e9alisme": 1,
+            "Kinetic Art": 1
+        },
+        "count": 214
+    },
+    "1969": {
+        "mediums": {
+            "printing": 0.62,
+            "drawing": 0.11,
+            "painting": 0.1,
+            "photography": 0.08,
+            "sculpture": 0.08,
+            "performance / film / sound": 0.01,
+            "experimental": 0.0
+        },
+        "movements": {
+            "St Ives School": 25,
+            "British Pop": 21,
+            "New Generation Sculpture": 13,
+            "Pop Art": 9,
+            "Performance Art": 8,
+            "School of London": 8,
+            "Minimalism": 7,
+            "Conceptual Art": 7,
+            "Body Art": 6,
+            "Arte Povera": 5,
+            "Surrealism": 5,
+            "Land Art": 4,
+            "Geometry of Fear": 4,
+            "Constructivism": 4,
+            "Abstract Expressionism": 3,
+            "British Constructivism": 2,
+            "Neue Wilden": 2,
+            "Environmental Art": 1,
+            "Nouveau R\u00e9alisme": 1,
+            "Fluxus": 1,
+            "Post Painterly Abstraction": 1,
+            "Feminist Art": 1
+        },
+        "count": 259
+    },
+    "1970": {
+        "mediums": {
+            "printing": 0.58,
+            "drawing": 0.13,
+            "photography": 0.09,
+            "experimental": 0.07,
+            "painting": 0.06,
+            "sculpture": 0.05,
+            "performance / film / sound": 0.01
+        },
+        "movements": {
+            "British Pop": 128,
+            "School of London": 70,
+            "Conceptual Art": 41,
+            "St Ives School": 32,
+            "Neo-Concretism": 28,
+            "Abstract Expressionism": 20,
+            "Ruralists, Brotherhood of": 14,
+            "Post Painterly Abstraction": 12,
+            "Body Art": 8,
+            "Performance Art": 6,
+            "New Generation Sculpture": 4,
+            "Surrealism": 2,
+            "Kinetic Art": 2,
+            "Constructivism": 2,
+            "Optical Art": 1,
+            "Dada": 1,
+            "Nouveau R\u00e9alisme": 1,
+            "Arte Povera": 1,
+            "Minimalism": 1,
+            "Fluxus": 1,
+            "Independent Group": 1,
+            "Pop Art": 1
+        },
+        "count": 402
+    },
+    "1971": {
+        "mediums": {
+            "printing": 0.59,
+            "drawing": 0.12,
+            "photography": 0.1,
+            "painting": 0.1,
+            "sculpture": 0.07,
+            "performance / film / sound": 0.01,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Minimalism": 37,
+            "British Pop": 32,
+            "Conceptual Art": 30,
+            "St Ives School": 16,
+            "School of London": 14,
+            "Pop Art": 12,
+            "Body Art": 7,
+            "Performance Art": 7,
+            "Feminist Art": 6,
+            "Ruralists, Brotherhood of": 5,
+            "New Generation Sculpture": 3,
+            "Actionism": 3,
+            "British Constructivism": 3,
+            "Land Art": 2,
+            "British Surrealism": 2,
+            "Optical Art": 2,
+            "Abstract Expressionism": 2,
+            "Mon-Ha / School of Things": 1,
+            "Kinetic Art": 1,
+            "Environmental Art": 1,
+            "Systems Group": 1,
+            "Abject art": 1,
+            "Constructivism": 1,
+            "Geometry of Fear": 1
+        },
+        "count": 445
+    },
+    "1972": {
+        "mediums": {
+            "printing": 0.74,
+            "painting": 0.09,
+            "drawing": 0.08,
+            "sculpture": 0.04,
+            "performance / film / sound": 0.03,
+            "photography": 0.02,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British Pop": 89,
+            "Independent Group": 46,
+            "School of London": 29,
+            "Conceptual Art": 24,
+            "Pop Art": 11,
+            "St Ives School": 10,
+            "Minimalism": 9,
+            "British Constructivism": 8,
+            "Performance Art": 6,
+            "Ruralists, Brotherhood of": 6,
+            "Body Art": 4,
+            "Optical Art": 3,
+            "Dada": 2,
+            "Surrealism": 2,
+            "Abstract Expressionism": 2,
+            "Land Art": 2,
+            "Environmental Art": 1,
+            "Auto-Destructive art": 1,
+            "Nouveau R\u00e9alisme": 1,
+            "Art Informel": 1
+        },
+        "count": 499
+    },
+    "1973": {
+        "mediums": {
+            "printing": 0.7,
+            "painting": 0.09,
+            "drawing": 0.09,
+            "sculpture": 0.06,
+            "photography": 0.05,
+            "performance / film / sound": 0.01,
+            "experimental": 0.01
+        },
+        "movements": {
+            "British Pop": 36,
+            "St Ives School": 30,
+            "Minimalism": 15,
+            "Conceptual Art": 11,
+            "Pop Art": 11,
+            "Constructivism": 11,
+            "Performance Art": 7,
+            "Surrealism": 4,
+            "Body Art": 4,
+            "Dada": 3,
+            "School of London": 3,
+            "Neo-Expressionism": 3,
+            "Neue Wilden": 3,
+            "Actionism": 2,
+            "Ruralists, Brotherhood of": 1,
+            "Feminist Art": 1,
+            "Optical Art": 1,
+            "Kinetic Art": 1,
+            "Land Art": 1,
+            "Arte Povera": 1,
+            "Bloomsbury Group": 1
+        },
+        "count": 397
+    },
+    "1974": {
+        "mediums": {
+            "printing": 0.83,
+            "painting": 0.07,
+            "drawing": 0.04,
+            "photography": 0.02,
+            "sculpture": 0.02,
+            "performance / film / sound": 0.01,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British Pop": 26,
+            "School of London": 6,
+            "Arte Povera": 6,
+            "St Ives School": 5,
+            "Performance Art": 4,
+            "Conceptual Art": 4,
+            "Pop Art": 4,
+            "Minimalism": 4,
+            "Body Art": 2,
+            "Post Painterly Abstraction": 2,
+            "British Constructivism": 2,
+            "Bloomsbury Group": 2,
+            "Feminist Art": 1,
+            "Geometry of Fear": 1
+        },
+        "count": 407
+    },
+    "1975": {
+        "mediums": {
+            "printing": 0.71,
+            "painting": 0.08,
+            "drawing": 0.08,
+            "photography": 0.07,
+            "sculpture": 0.04,
+            "performance / film / sound": 0.02,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British Pop": 31,
+            "Conceptual Art": 25,
+            "School of London": 12,
+            "Ruralists, Brotherhood of": 10,
+            "Performance Art": 9,
+            "Feminist Art": 7,
+            "Minimalism": 6,
+            "Body Art": 5,
+            "St Ives School": 2,
+            "Actionism": 2,
+            "Neo-Romanticism": 2,
+            "Abject art": 1,
+            "New British Sculpture": 1,
+            "Land Art": 1,
+            "Pop Art": 1,
+            "Environmental Art": 1
+        },
+        "count": 316
+    },
+    "1976": {
+        "mediums": {
+            "printing": 0.6,
+            "painting": 0.12,
+            "photography": 0.11,
+            "drawing": 0.07,
+            "sculpture": 0.07,
+            "performance / film / sound": 0.02,
+            "experimental": 0.02
+        },
+        "movements": {
+            "British Pop": 42,
+            "Pop Art": 11,
+            "Conceptual Art": 4,
+            "School of London": 4,
+            "Feminist Art": 4,
+            "Abject art": 3,
+            "Art Informel": 3,
+            "Euston Road School": 2,
+            "Land Art": 2,
+            "Artist Placement Group": 2,
+            "Abstract Expressionism": 2,
+            "Surrealism": 2,
+            "British Surrealism": 1,
+            "British Constructivism": 1,
+            "Bloomsbury Group": 1,
+            "Constructivism": 1,
+            "Cobra": 1
+        },
+        "count": 316
+    },
+    "1977": {
+        "mediums": {
+            "printing": 0.72,
+            "painting": 0.13,
+            "drawing": 0.09,
+            "photography": 0.03,
+            "sculpture": 0.02,
+            "performance / film / sound": 0.01,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British Pop": 34,
+            "Conceptual Art": 8,
+            "British Constructivism": 8,
+            "Pop Art": 4,
+            "Feminist Art": 2,
+            "Abject art": 1,
+            "School of London": 1,
+            "Artist Placement Group": 1,
+            "Body Art": 1,
+            "St Ives School": 1,
+            "Land Art": 1,
+            "Minimalism": 1,
+            "Post Painterly Abstraction": 1
+        },
+        "count": 223
+    },
+    "1978": {
+        "mediums": {
+            "printing": 0.56,
+            "painting": 0.17,
+            "photography": 0.13,
+            "drawing": 0.09,
+            "sculpture": 0.03,
+            "performance / film / sound": 0.01,
+            "experimental": 0.0
+        },
+        "movements": {
+            "St Ives School": 22,
+            "Neo-Romanticism": 9,
+            "Conceptual Art": 6,
+            "Pop Art": 6,
+            "British Pop": 6,
+            "Actionism": 4,
+            "School of London": 3,
+            "Neo-Expressionism": 2,
+            "Performance Art": 2,
+            "Feminist Art": 2,
+            "Environmental Art": 1,
+            "Land Art": 1,
+            "Minimalism": 1
+        },
+        "count": 213
+    },
+    "1979": {
+        "mediums": {
+            "printing": 0.55,
+            "photography": 0.29,
+            "painting": 0.09,
+            "drawing": 0.05,
+            "sculpture": 0.02,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conceptual Art": 83,
+            "British Pop": 6,
+            "Actionism": 5,
+            "Neo-Expressionism": 4,
+            "Pop Art": 4,
+            "School of London": 3,
+            "Land Art": 3,
+            "Minimalism": 2,
+            "St Ives School": 2,
+            "Feminist Art": 2,
+            "Transavanguardia": 1,
+            "British Constructivism": 1,
+            "Arte Povera": 1,
+            "Surrealism": 1,
+            "Neue Wilden": 1
+        },
+        "count": 340
+    },
+    "1980": {
+        "mediums": {
+            "printing": 0.53,
+            "painting": 0.17,
+            "photography": 0.15,
+            "drawing": 0.1,
+            "sculpture": 0.04,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "British Pop": 8,
+            "Pop Art": 6,
+            "School of London": 5,
+            "Neo-Expressionism": 5,
+            "Performance Art": 3,
+            "Minimalism": 2,
+            "British Constructivism": 2,
+            "Conceptual Art": 2,
+            "Land Art": 2,
+            "Transavanguardia": 2,
+            "Abject art": 1,
+            "Optical Art": 1,
+            "St Ives School": 1,
+            "Feminist Art": 1
+        },
+        "count": 251
+    },
+    "1981": {
+        "mediums": {
+            "printing": 0.62,
+            "painting": 0.15,
+            "drawing": 0.11,
+            "photography": 0.06,
+            "sculpture": 0.04,
+            "performance / film / sound": 0.01,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Neo-Expressionism": 16,
+            "New British Sculpture": 11,
+            "Transavanguardia": 10,
+            "Conceptual Art": 8,
+            "Pop Art": 5,
+            "Neue Wilden": 4,
+            "Optical Art": 3,
+            "Post Painterly Abstraction": 3,
+            "Performance Art": 2,
+            "School of London": 2,
+            "British Pop": 2,
+            "Minimalism": 1,
+            "Land Art": 1,
+            "Kinetic Art": 1,
+            "Arte Povera": 1
+        },
+        "count": 235
+    },
+    "1982": {
+        "mediums": {
+            "printing": 0.68,
+            "painting": 0.12,
+            "drawing": 0.09,
+            "photography": 0.05,
+            "sculpture": 0.05,
+            "performance / film / sound": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conceptual Art": 43,
+            "British Pop": 16,
+            "Neo-Expressionism": 15,
+            "Transavanguardia": 10,
+            "Pop Art": 10,
+            "Minimalism": 6,
+            "Independent Group": 4,
+            "Feminist Art": 4,
+            "Performance Art": 4,
+            "Neue Wilden": 3,
+            "New British Sculpture": 2,
+            "Abject art": 2,
+            "School of London": 2,
+            "Arte Povera": 1,
+            "Art Informel": 1,
+            "Land Art": 1,
+            "Actionism": 1
+        },
+        "count": 346
+    },
+    "1983": {
+        "mediums": {
+            "printing": 0.68,
+            "painting": 0.12,
+            "drawing": 0.08,
+            "photography": 0.05,
+            "sculpture": 0.05,
+            "performance / film / sound": 0.01,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conceptual Art": 15,
+            "Neo-Expressionism": 5,
+            "Pop Art": 4,
+            "New British Sculpture": 3,
+            "Neue Wilden": 3,
+            "Environmental Art": 3,
+            "Performance Art": 2,
+            "School of London": 2,
+            "Feminist Art": 1,
+            "British Surrealism": 1,
+            "British Pop": 1,
+            "Land Art": 1,
+            "Neo-Romanticism": 1
+        },
+        "count": 190
+    },
+    "1984": {
+        "mediums": {
+            "printing": 0.43,
+            "photography": 0.24,
+            "painting": 0.12,
+            "drawing": 0.08,
+            "sculpture": 0.08,
+            "performance / film / sound": 0.03,
+            "experimental": 0.01
+        },
+        "movements": {
+            "Conceptual Art": 24,
+            "School of London": 8,
+            "Pop Art": 6,
+            "New British Sculpture": 2,
+            "Environmental Art": 1
+        },
+        "count": 157
+    },
+    "1985": {
+        "mediums": {
+            "printing": 0.35,
+            "painting": 0.22,
+            "drawing": 0.16,
+            "sculpture": 0.16,
+            "photography": 0.08,
+            "performance / film / sound": 0.02,
+            "experimental": 0.01
+        },
+        "movements": {
+            "Conceptual Art": 8,
+            "Environmental Art": 5,
+            "New British Sculpture": 4,
+            "School of London": 4,
+            "Pop Art": 3,
+            "Minimalism": 2,
+            "Arte Povera": 2,
+            "Neo-Expressionism": 1,
+            "Young British Artists (YBA)": 1,
+            "Neo-Geo": 1,
+            "Performance Art": 1,
+            "Feminist Art": 1,
+            "Land Art": 1
+        },
+        "count": 118
+    },
+    "1986": {
+        "mediums": {
+            "printing": 0.49,
+            "painting": 0.17,
+            "photography": 0.15,
+            "drawing": 0.08,
+            "sculpture": 0.08,
+            "performance / film / sound": 0.03,
+            "experimental": 0.01
+        },
+        "movements": {
+            "Conceptual Art": 27,
+            "Pop Art": 18,
+            "Body Art": 10,
+            "New British Sculpture": 3,
+            "St Ives School": 2,
+            "British Pop": 1,
+            "Minimalism": 1,
+            "Kinetic Art": 1,
+            "Land Art": 1
+        },
+        "count": 179
+    },
+    "1987": {
+        "mediums": {
+            "printing": 0.44,
+            "painting": 0.18,
+            "photography": 0.14,
+            "drawing": 0.14,
+            "sculpture": 0.08,
+            "performance / film / sound": 0.01,
+            "experimental": 0.01
+        },
+        "movements": {
+            "Conceptual Art": 7,
+            "New British Sculpture": 4,
+            "Pop Art": 3,
+            "British Pop": 3,
+            "Land Art": 1,
+            "School of London": 1,
+            "Neo-Expressionism": 1
+        },
+        "count": 168
+    },
+    "1988": {
+        "mediums": {
+            "photography": 0.33,
+            "printing": 0.31,
+            "painting": 0.19,
+            "drawing": 0.1,
+            "sculpture": 0.07,
+            "performance / film / sound": 0.01,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conceptual Art": 21,
+            "Land Art": 3,
+            "New British Sculpture": 2,
+            "British Pop": 1,
+            "Neo-Expressionism": 1,
+            "Arte Povera": 1,
+            "School of London": 1,
+            "Pop Art": 1,
+            "Neue Wilden": 1,
+            "Minimalism": 1
+        },
+        "count": 175
+    },
+    "1989": {
+        "mediums": {
+            "printing": 0.51,
+            "painting": 0.25,
+            "drawing": 0.08,
+            "sculpture": 0.08,
+            "photography": 0.07,
+            "performance / film / sound": 0.01,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conceptual Art": 8,
+            "School of London": 5,
+            "New British Sculpture": 4,
+            "Neo-Expressionism": 4,
+            "Neue Wilden": 3,
+            "Abject art": 2,
+            "Land Art": 2,
+            "Optical Art": 1,
+            "Spazialismo": 1,
+            "Pop Art": 1
+        },
+        "count": 167
+    },
+    "1990": {
+        "mediums": {
+            "printing": 0.54,
+            "drawing": 0.16,
+            "painting": 0.14,
+            "photography": 0.07,
+            "sculpture": 0.06,
+            "performance / film / sound": 0.04,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Feminist Art": 30,
+            "Conceptual Art": 16,
+            "British Pop": 8,
+            "School of London": 6,
+            "Land Art": 3,
+            "Minimalism": 2,
+            "New British Sculpture": 2,
+            "Young British Artists (YBA)": 2,
+            "Pop Art": 2,
+            "Neo-Geo": 1,
+            "Body Art": 1,
+            "Kinetic Art": 1,
+            "Performance Art": 1,
+            "Abject art": 1
+        },
+        "count": 218
+    },
+    "1991": {
+        "mediums": {
+            "printing": 0.56,
+            "photography": 0.17,
+            "painting": 0.13,
+            "sculpture": 0.07,
+            "drawing": 0.03,
+            "performance / film / sound": 0.03,
+            "experimental": 0.01
+        },
+        "movements": {
+            "Conceptual Art": 18,
+            "Young British Artists (YBA)": 8,
+            "New British Sculpture": 4,
+            "Land Art": 4,
+            "Abject art": 3,
+            "School of London": 2,
+            "Minimalism": 1,
+            "Pop Art": 1,
+            "Post Painterly Abstraction": 1,
+            "St Ives School": 1,
+            "Fluxus": 1,
+            "Feminist Art": 1
+        },
+        "count": 183
+    },
+    "1992": {
+        "mediums": {
+            "printing": 0.56,
+            "painting": 0.14,
+            "photography": 0.13,
+            "sculpture": 0.09,
+            "drawing": 0.05,
+            "performance / film / sound": 0.03,
+            "experimental": 0.01
+        },
+        "movements": {
+            "Young British Artists (YBA)": 11,
+            "Post Painterly Abstraction": 4,
+            "British Pop": 3,
+            "School of London": 3,
+            "Conceptual Art": 2,
+            "Land Art": 1,
+            "Minimalism": 1,
+            "St Ives School": 1,
+            "Abject art": 1,
+            "Independent Group": 1
+        },
+        "count": 160
+    },
+    "1993": {
+        "mediums": {
+            "printing": 0.29,
+            "painting": 0.22,
+            "photography": 0.18,
+            "drawing": 0.13,
+            "sculpture": 0.13,
+            "performance / film / sound": 0.05,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Young British Artists (YBA)": 12,
+            "British Pop": 6,
+            "School of London": 4,
+            "Conceptual Art": 1,
+            "Kinetic Art": 1,
+            "Optical Art": 1,
+            "Surrealism": 1,
+            "Performance Art": 1,
+            "Land Art": 1,
+            "Neo-Expressionism": 1,
+            "Neue Wilden": 1
+        },
+        "count": 186
+    },
+    "1994": {
+        "mediums": {
+            "printing": 0.57,
+            "painting": 0.12,
+            "photography": 0.11,
+            "drawing": 0.08,
+            "performance / film / sound": 0.08,
+            "sculpture": 0.03,
+            "experimental": 0.01
+        },
+        "movements": {
+            "Young British Artists (YBA)": 13,
+            "British Pop": 4,
+            "Minimalism": 3,
+            "Conceptual Art": 2,
+            "Abject art": 2,
+            "Land Art": 1,
+            "Performance Art": 1,
+            "Feminist Art": 1
+        },
+        "count": 168
+    },
+    "1995": {
+        "mediums": {
+            "printing": 0.61,
+            "painting": 0.16,
+            "photography": 0.06,
+            "drawing": 0.06,
+            "performance / film / sound": 0.05,
+            "sculpture": 0.05,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Neue Wilden": 49,
+            "Neo-Expressionism": 48,
+            "Young British Artists (YBA)": 10,
+            "Feminist Art": 3,
+            "Abject art": 3,
+            "School of London": 3,
+            "Body Art": 2,
+            "Performance Art": 1
+        },
+        "count": 241
+    },
+    "1996": {
+        "mediums": {
+            "printing": 0.63,
+            "painting": 0.13,
+            "photography": 0.07,
+            "drawing": 0.07,
+            "performance / film / sound": 0.05,
+            "sculpture": 0.05,
+            "experimental": 0.01
+        },
+        "movements": {
+            "Young British Artists (YBA)": 31,
+            "Abject art": 4,
+            "New British Sculpture": 2,
+            "School of London": 2,
+            "Performance Art": 1,
+            "Fluxus": 1
+        },
+        "count": 187
+    },
+    "1997": {
+        "mediums": {
+            "printing": 0.52,
+            "photography": 0.24,
+            "painting": 0.12,
+            "sculpture": 0.05,
+            "drawing": 0.03,
+            "performance / film / sound": 0.03,
+            "experimental": 0.01
+        },
+        "movements": {
+            "Young British Artists (YBA)": 27,
+            "Abject art": 12,
+            "British Pop": 3,
+            "Feminist Art": 3,
+            "School of London": 2,
+            "Conceptual Art": 1,
+            "Performance Art": 1
+        },
+        "count": 294
+    },
+    "1998": {
+        "mediums": {
+            "printing": 0.6,
+            "photography": 0.13,
+            "drawing": 0.08,
+            "sculpture": 0.08,
+            "painting": 0.07,
+            "performance / film / sound": 0.02,
+            "experimental": 0.02
+        },
+        "movements": {
+            "School of London": 48,
+            "Young British Artists (YBA)": 22,
+            "Environmental Art": 8,
+            "Abject art": 4,
+            "Performance Art": 2,
+            "New British Sculpture": 1,
+            "Arte Povera": 1,
+            "St Ives School": 1,
+            "Conceptual Art": 1
+        },
+        "count": 331
+    },
+    "1999": {
+        "mediums": {
+            "printing": 0.42,
+            "drawing": 0.22,
+            "photography": 0.12,
+            "painting": 0.09,
+            "performance / film / sound": 0.07,
+            "sculpture": 0.07,
+            "experimental": 0.01
+        },
+        "movements": {
+            "Performance Art": 38,
+            "St Ives School": 18,
+            "Young British Artists (YBA)": 15,
+            "Conceptual Art": 9,
+            "British Pop": 3,
+            "Minimalism": 2,
+            "School of London": 1,
+            "Abject art": 1
+        },
+        "count": 301
+    },
+    "2000": {
+        "mediums": {
+            "printing": 0.53,
+            "photography": 0.18,
+            "painting": 0.09,
+            "drawing": 0.07,
+            "performance / film / sound": 0.07,
+            "sculpture": 0.05,
+            "experimental": 0.02
+        },
+        "movements": {
+            "Young British Artists (YBA)": 26,
+            "Abject art": 18,
+            "Performance Art": 2,
+            "Conceptual Art": 1,
+            "Body Art": 1
+        },
+        "count": 258
+    },
+    "2001": {
+        "mediums": {
+            "printing": 0.71,
+            "photography": 0.09,
+            "performance / film / sound": 0.08,
+            "sculpture": 0.05,
+            "painting": 0.03,
+            "drawing": 0.03,
+            "experimental": 0.01
+        },
+        "movements": {
+            "Optical Art": 1,
+            "Conceptual Art": 1,
+            "Feminist Art": 1,
+            "Young British Artists (YBA)": 1
+        },
+        "count": 224
+    },
+    "2002": {
+        "mediums": {
+            "printing": 0.41,
+            "photography": 0.24,
+            "performance / film / sound": 0.1,
+            "painting": 0.09,
+            "sculpture": 0.09,
+            "drawing": 0.06,
+            "experimental": 0.01
+        },
+        "movements": {
+            "Young British Artists (YBA)": 38,
+            "Land Art": 4,
+            "Kinetic Art": 1
+        },
+        "count": 170
+    },
+    "2003": {
+        "mediums": {
+            "photography": 0.22,
+            "painting": 0.2,
+            "sculpture": 0.18,
+            "printing": 0.15,
+            "drawing": 0.14,
+            "performance / film / sound": 0.11,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Digital art": 1,
+            "Land Art": 1,
+            "Performance Art": 1,
+            "Abject art": 1
+        },
+        "count": 116
+    },
+    "2004": {
+        "mediums": {
+            "sculpture": 0.24,
+            "painting": 0.16,
+            "performance / film / sound": 0.16,
+            "drawing": 0.14,
+            "printing": 0.13,
+            "photography": 0.12,
+            "experimental": 0.04
+        },
+        "movements": {
+            "Performance Art": 2,
+            "Young British Artists (YBA)": 1,
+            "Land Art": 1,
+            "Auto-Destructive art": 1,
+            "Conceptual Art": 1,
+            "British Pop": 1,
+            "Independent Group": 1
+        },
+        "count": 112
+    },
+    "2005": {
+        "mediums": {
+            "sculpture": 0.19,
+            "printing": 0.18,
+            "photography": 0.17,
+            "performance / film / sound": 0.17,
+            "painting": 0.15,
+            "drawing": 0.12,
+            "experimental": 0.03
+        },
+        "movements": {
+            "Conceptual Art": 7,
+            "Performance Art": 2,
+            "Young British Artists (YBA)": 1
+        },
+        "count": 113
+    },
+    "2006": {
+        "mediums": {
+            "printing": 0.32,
+            "performance / film / sound": 0.19,
+            "photography": 0.15,
+            "sculpture": 0.15,
+            "painting": 0.1,
+            "drawing": 0.09,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conceptual Art": 4,
+            "Young British Artists (YBA)": 4,
+            "Abject art": 1,
+            "Body Art": 1,
+            "Performance Art": 1,
+            "Minimalism": 1
+        },
+        "count": 124
+    },
+    "2007": {
+        "mediums": {
+            "photography": 0.51,
+            "printing": 0.19,
+            "painting": 0.1,
+            "performance / film / sound": 0.09,
+            "sculpture": 0.07,
+            "drawing": 0.04,
+            "experimental": 0.0
+        },
+        "movements": {
+            "Conceptual Art": 2,
+            "Young British Artists (YBA)": 2,
+            "Abject art": 1
+        },
+        "count": 282
+    },
+    "2008": {
+        "mediums": {
+            "printing": 0.28,
+            "photography": 0.18,
+            "painting": 0.15,
+            "sculpture": 0.12,
+            "performance / film / sound": 0.11,
+            "drawing": 0.1,
+            "experimental": 0.06
+        },
+        "movements": {
+            "Abject art": 3,
+            "Young British Artists (YBA)": 1,
+            "Conceptual Art": 1
+        },
+        "count": 142
+    },
+    "2009": {
+        "mediums": {
+            "painting": 0.4,
+            "performance / film / sound": 0.15,
+            "sculpture": 0.13,
+            "drawing": 0.12,
+            "photography": 0.11,
+            "printing": 0.08,
+            "experimental": 0.01
+        },
+        "movements": {
+            "Feminist Art": 1,
+            "Conceptual Art": 1,
+            "Land Art": 1
+        },
+        "count": 92
+    },
+    "2010": {
+        "mediums": {
+            "painting": 0.3,
+            "photography": 0.19,
+            "performance / film / sound": 0.16,
+            "sculpture": 0.16,
+            "drawing": 0.07,
+            "printing": 0.06,
+            "experimental": 0.04
+        },
+        "movements": {
+            "Young British Artists (YBA)": 3,
+            "Conceptual Art": 1
+        },
+        "count": 67
+    },
+    "2011": {
+        "mediums": {
+            "photography": 0.57,
+            "painting": 0.26,
+            "printing": 0.09,
+            "drawing": 0.04,
+            "sculpture": 0.02,
+            "experimental": 0.02,
+            "performance / film / sound": 0.0
+        },
+        "movements": {
+            "Conceptual Art": 4
+        },
+        "count": 53
+    },
+    "2012": {
+        "mediums": {
+            "photography": 0.83,
+            "sculpture": 0.09,
+            "painting": 0.04,
+            "drawing": 0.02,
+            "performance / film / sound": 0.02,
+            "printing": 0.0,
+            "experimental": 0.0
+        },
+        "movements": {},
+        "count": 46
+    }
+}
