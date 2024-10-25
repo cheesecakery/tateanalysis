@@ -85,7 +85,10 @@ stats = {
 with open('stats.json', 'w') as outfile:
     json.dump(stats, outfile, indent=4)
 
-# Create info about artworks !!
+# Creating info about medium / movement types
+
+# Commented out as no longer necessary
+
 # mediumTypes = {}
 # movementTypes = {}
 # for data in json_data:
@@ -123,49 +126,4 @@ with open('stats.json', 'w') as outfile:
 
 # with open('movementTypes.json', 'w') as outfile: 
 #     json.dump(movementTypes, outfile, indent=4)
-
-# for data in json_data:
-#     artwork = {
-#         'id': data['id']
-#     }
-
-#     if data['dateRange'] and data['dateRange']['startYear'] != 'no date':
-#         if 'endYear' in data['dateRange']:
-#             artwork['year'] = data['dateRange']['endYear']
-#         else:
-#             artwork['year'] = data['dateRange']['startYear']
-            
-#     if (data['medium']):
-#         mediums = data['medium'].lower().split()
-#         mediums = [m.strip(".,") for m in mediums]
-#         if "and" in mediums: mediums.remove("and")
-#         if "on" in mediums: mediums.remove("on")
-#         if "verso:" in mediums: mediums.remove("verso:")
-#         if "paper" in mediums: mediums.remove("paper")
-#         if "paint" in mediums: mediums.remove("paint")
-#         artwork['mediums'] = mediums
-
-#         for medium in mediums:
-#             if medium not in mediumTypes:
-#                 mediumTypes[medium] = 1
-#             else:
-#                 mediumTypes[medium] += 1
-
-#     if data['movementCount'] > 0:
-#         movements = []
-#         for movement in data['movements']:
-#             movements.append(movement['name'])
-
-#             if movement = 
-
-#         artwork['movements'] = movements
-
-#     artworkData.append(artwork)
-
-# mediumTypes = dict(sorted(mediumTypes.items(), key=lambda item: item[1], reverse=True))
-
-# # Dump into a file
-# with open('artworkData.json', 'w') as outfile: 
-#     json.dump(artworkData, outfile)
-
 
